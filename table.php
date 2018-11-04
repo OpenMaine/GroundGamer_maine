@@ -99,6 +99,14 @@
 	}
 
 
+
+	function orderByAmount($a, $b){
+		return ($a -> Amount < $b -> Amount);
+	}
+
+	usort($result, 'orderByAmount');
+
+
 //	print_r($result);
 
 	$dictionary = array(

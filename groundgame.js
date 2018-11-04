@@ -136,7 +136,7 @@ function toggleBody(body){
 
 	// fetch data from api and load
 	else {
-		$.getJSON(body + '_districts.js', function(response){
+		$.getJSON('data/turfs/' + body + '_districts.js', function(response){
 			gg.loaded[gg.active_body] = true;
 			loadDistrictGeography(response);
 
@@ -250,8 +250,13 @@ function loadDistrict(dnum){
 
 		var c;
 		var leg = gg.selected.district.legislator;
-		if(leg.party == 'Republican') c = '#ff0000';
-		else if(leg.party == 'Democrat') c = '#0000ff';
+
+		if(leg.party == 'Republican') {
+			c = (leg.is_incumbent) ? '#ff0000' : '#ff69b4';
+		}
+		else if(leg.party == 'Democrat') {
+			c = (leg.is_incumbent) ? '#0000ff' : '#1fdee3';	
+		} 
 		else c = "#888888";
 
 		$.each(gg.selected.district.geo.polygonsGoogle, function(i, polygon){
@@ -283,7 +288,7 @@ function loadDistrict(dnum){
 
 					'<div class="leg_card clearfix">' +
 						'<div class="party_header ' + legislator.party[0] + '">' + title + '</div>' + 
-						'<div class="mug_shot" style="background-image: url(\'' + legislator.photo_url + '\');"></div>' +
+						'<div class="mug_shot" style="background-image: url(\'assets/legislator-photos/' + legislator.photo_url + '\');"></div>' +
 						'<div class="contact_details">' + 
 							'<div class="name">' + legislator.name.fullName + '</div>' +
 							//legislator.phone + 
@@ -423,7 +428,7 @@ function showList(){
 		var l = district.legislator;
 
 		var leg_card = '<div class="leg_card clearfix" id="leg_' + dnum +'" onclick="loadDistrict(' + dnum + ')">' +
-							'<div class="mug_shot" style="background-image: url(\'' + l.photo_url + '\');"></div>' +
+							'<div class="mug_shot" style="background-image: url(\'assets/legislator-photos/' + l.photo_url + '\');"></div>' +
 							'<div class="name">' + l.name.fullName + '</div>' +
 							'<div class="district">District ' + dnum + ' - ' + l.towns + '</div>' +
 

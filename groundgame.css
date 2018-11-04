@@ -18,6 +18,7 @@
 	margin: 50px;
 	box-shadow: 0 4px 5px 0 rgba(0,0,0,0.14),0 1px 10px 0 rgba(0,0,0,0.12),0 2px 4px -1px rgba(0,0,0,0.2);
 	font-size: 14px;
+	overflow-y: auto;
 }
 
 #house_toggle {
@@ -79,8 +80,8 @@ html, body {
 .leg_card_frame 		{ height: 350px; overflow: auto; border: solid 1px #ccc; }
 .leg_card				{ clear: both; border-bottom: dotted 1px #ccc; padding: 8px 0; cursor: pointer;}
 .leg_card:hover 		{ background: #337ab7; color: white; }
-.leg_card .mug_shot		{ height: 60px; width: 60px; float: left;background-size: 40px; background-position: center; background-repeat: no-repeat;}
-.leg_card .name			{ font-weight: bold; font-size: 14px; }
+.leg_card .mug_shot		{ height: 60px; width: 60px; float: left;background-size: 45px; background-position: center; background-repeat: no-repeat;}
+.leg_card .name			{ font-weight: bold; font-size: 14px; padding-top: 7px; }
 .leg_card .district		{ font-style: italic; font-size: 12px; }
 
 #address_frame 			{ padding: 15px 0; }

@@ -1,4 +1,4 @@
-house_2018 = {
+{
     "1": {
         "GREEN INDEPENDENT": {
             "firstName": "Andrew ",
@@ -21,9 +21,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5838,
-            "TotalCashonHand": 3673.29,
+            "TotalCashonHand": 2427.26,
             "TotalContributions": 5575,
-            "TotalExpenditures": 1901.71,
+            "TotalExpenditures": 3147.74,
             "incumbentFlag": true
         }
     },
@@ -36,9 +36,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5715,
-            "TotalCashonHand": null,
-            "TotalContributions": null,
-            "TotalExpenditures": 1303.93,
+            "TotalCashonHand": 879.71,
+            "TotalContributions": 800,
+            "TotalExpenditures": 4440.29,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -49,12 +49,11 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5921,
-            "TotalCashonHand": 6178.25,
-            "TotalContributions": 9873.75,
-            "TotalExpenditures": 3695.5,
+            "TotalCashonHand": 2530.19,
+            "TotalContributions": 14928.75,
+            "TotalExpenditures": 12398.56,
             "incumbentFlag": false
-        },
-       
+        }
     },
     "3": {
         "DEMOCRATIC": {
@@ -65,9 +64,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5892,
-            "TotalCashonHand": 6217,
-            "TotalContributions": 7234.67,
-            "TotalExpenditures": 1017.67,
+            "TotalCashonHand": 3034.08,
+            "TotalContributions": 10399.67,
+            "TotalExpenditures": 7365.59,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -78,9 +77,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5770,
-            "TotalCashonHand": 8121.35,
-            "TotalContributions": 11790,
-            "TotalExpenditures": 3668.65,
+            "TotalCashonHand": 1188.28,
+            "TotalContributions": 17589,
+            "TotalExpenditures": 16400.72,
             "incumbentFlag": false
         }
     },
@@ -93,9 +92,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5937,
-            "TotalCashonHand": 5905,
-            "TotalContributions": 6170,
-            "TotalExpenditures": 265,
+            "TotalCashonHand": 882.73,
+            "TotalContributions": 7115,
+            "TotalExpenditures": 6232.27,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -106,9 +105,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5974,
-            "TotalCashonHand": 5462.38,
+            "TotalCashonHand": 1244.41,
             "TotalContributions": 5602,
-            "TotalExpenditures": 139.62,
+            "TotalExpenditures": 4357.59,
             "incumbentFlag": false
         }
     },
@@ -123,7 +122,7 @@ house_2018 = {
             "IDNumber": 5611,
             "TotalCashonHand": null,
             "TotalContributions": null,
-            "TotalExpenditures": 308.06,
+            "TotalExpenditures": 3644.61,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -134,9 +133,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5784,
-            "TotalCashonHand": 5170.52,
-            "TotalContributions": 5792.42,
-            "TotalExpenditures": 621.9,
+            "TotalCashonHand": 144.06,
+            "TotalContributions": 7067.42,
+            "TotalExpenditures": 6923.36,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -147,9 +146,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5885,
-            "TotalCashonHand": 1932.19,
-            "TotalContributions": 2082.18,
-            "TotalExpenditures": 149.99,
+            "TotalCashonHand": 148.83,
+            "TotalContributions": 4457.18,
+            "TotalExpenditures": 4308.35,
             "incumbentFlag": true
         }
     },
@@ -162,12 +161,11 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6021,
-            "TotalCashonHand": 5905,
-            "TotalContributions": 5905,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 4808.65,
+            "TotalContributions": 6850,
+            "TotalExpenditures": 2041.35,
             "incumbentFlag": false
         },
-       
         "DEMOCRATIC": {
             "firstName": "Tiffany Danielle ",
             "lastName": "Roberts-Lovell",
@@ -176,9 +174,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 286493,
-            "TotalCashonHand": null,
-            "TotalContributions": null,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 839.82,
+            "TotalContributions": 7555,
+            "TotalExpenditures": 6715.18,
             "incumbentFlag": false
         }
     },
@@ -191,9 +189,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6149,
-            "TotalCashonHand": 5530,
-            "TotalContributions": 6015,
-            "TotalExpenditures": 485,
+            "TotalCashonHand": 180.1,
+            "TotalContributions": 7290,
+            "TotalExpenditures": 7109.9,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -204,9 +202,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5809,
-            "TotalCashonHand": 836.31,
-            "TotalContributions": 1395,
-            "TotalExpenditures": 558.69,
+            "TotalCashonHand": 3.86,
+            "TotalContributions": 4655,
+            "TotalExpenditures": 4651.14,
             "incumbentFlag": false
         }
     },
@@ -219,9 +217,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5909,
-            "TotalCashonHand": 5189.92,
-            "TotalContributions": 5779.76,
-            "TotalExpenditures": 589.84,
+            "TotalCashonHand": 781.37,
+            "TotalContributions": 5781.63,
+            "TotalExpenditures": 5000.26,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -232,9 +230,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 288699,
-            "TotalCashonHand": null,
-            "TotalContributions": null,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 2254.49,
+            "TotalContributions": 1775.1,
+            "TotalExpenditures": 2554,
             "incumbentFlag": false
         }
     },
@@ -247,9 +245,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6128,
-            "TotalCashonHand": 6845.41,
-            "TotalContributions": 7895,
-            "TotalExpenditures": 1049.59,
+            "TotalCashonHand": 2105.93,
+            "TotalContributions": 11675,
+            "TotalExpenditures": 9569.07,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -260,9 +258,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 287643,
-            "TotalCashonHand": null,
-            "TotalContributions": null,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 2062.25,
+            "TotalContributions": 2350,
+            "TotalExpenditures": 287.75,
             "incumbentFlag": false
         }
     },
@@ -275,9 +273,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5617,
-            "TotalCashonHand": 8059.85,
-            "TotalContributions": 11420,
-            "TotalExpenditures": 3360.15,
+            "TotalCashonHand": 1037.8,
+            "TotalContributions": 16480,
+            "TotalExpenditures": 15442.2,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -288,9 +286,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5876,
-            "TotalCashonHand": 6658.56,
-            "TotalContributions": 8526.45,
-            "TotalExpenditures": 1867.89,
+            "TotalCashonHand": 1987.75,
+            "TotalContributions": 16746.45,
+            "TotalExpenditures": 14758.7,
             "incumbentFlag": false
         }
     },
@@ -303,9 +301,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5812,
-            "TotalCashonHand": 1024.93,
-            "TotalContributions": 2755,
-            "TotalExpenditures": 1730.07,
+            "TotalCashonHand": 1310.19,
+            "TotalContributions": 4220,
+            "TotalExpenditures": 2909.81,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -316,13 +314,13 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6129,
-            "TotalCashonHand": 28.34,
-            "TotalContributions": 50,
+            "TotalCashonHand": 1753.34,
+            "TotalContributions": 1775,
             "TotalExpenditures": 21.66,
             "incumbentFlag": false
         }
     },
-    "12": { 
+    "12": {
         "DEMOCRATIC": {
             "firstName": "Victoria ",
             "lastName": "Foley",
@@ -331,9 +329,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6158,
-            "TotalCashonHand": 2039.07,
-            "TotalContributions": 4532.16,
-            "TotalExpenditures": 2493.09,
+            "TotalCashonHand": 134.31,
+            "TotalContributions": 4532.4,
+            "TotalExpenditures": 4398.09,
             "incumbentFlag": false
         }
     },
@@ -346,12 +344,11 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5851,
-            "TotalCashonHand": 5987.31,
-            "TotalContributions": 9260,
-            "TotalExpenditures": 3272.69,
+            "TotalCashonHand": 3928.43,
+            "TotalContributions": 12425,
+            "TotalExpenditures": 8496.57,
             "incumbentFlag": false
         },
-      
         "REPUBLICAN": {
             "firstName": "Sharri K ",
             "lastName": "MacDonald",
@@ -360,9 +357,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6017,
-            "TotalCashonHand": 2358.3,
-            "TotalContributions": 2358.3,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 267.3,
+            "TotalContributions": 3308.3,
+            "TotalExpenditures": 3041,
             "incumbentFlag": false
         }
     },
@@ -375,9 +372,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5953,
-            "TotalCashonHand": 340.24,
-            "TotalContributions": 340.24,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 725.1,
+            "TotalContributions": 1840.24,
+            "TotalExpenditures": 5115.14,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -388,9 +385,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5924,
-            "TotalCashonHand": 713.6,
-            "TotalContributions": 2520,
-            "TotalExpenditures": 1806.4,
+            "TotalCashonHand": 1199.81,
+            "TotalContributions": 3145,
+            "TotalExpenditures": 1945.19,
             "incumbentFlag": false
         },
         "UNENROLLED": {
@@ -401,9 +398,9 @@ house_2018 = {
             "party": "UNENROLLED",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6041,
-            "TotalCashonHand": 5748.36,
-            "TotalContributions": 7154.33,
-            "TotalExpenditures": 1405.97,
+            "TotalCashonHand": 1174.51,
+            "TotalContributions": 9044.33,
+            "TotalExpenditures": 7869.82,
             "incumbentFlag": false
         }
     },
@@ -416,9 +413,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6035,
-            "TotalCashonHand": 4985.48,
+            "TotalCashonHand": 2264.13,
             "TotalContributions": 6076.35,
-            "TotalExpenditures": 1090.87,
+            "TotalExpenditures": 3812.22,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -429,9 +426,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6016,
-            "TotalCashonHand": 3516.71,
-            "TotalContributions": 3778.92,
-            "TotalExpenditures": 262.21,
+            "TotalCashonHand": 2704.02,
+            "TotalContributions": 6035.92,
+            "TotalExpenditures": 3331.9,
             "incumbentFlag": false
         }
     },
@@ -444,9 +441,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6200,
-            "TotalCashonHand": 6005.8,
-            "TotalContributions": 6764,
-            "TotalExpenditures": 758.2,
+            "TotalCashonHand": 1422.4,
+            "TotalContributions": 10874,
+            "TotalExpenditures": 9451.6,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -457,9 +454,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5842,
-            "TotalCashonHand": 13216.76,
-            "TotalContributions": 13216.76,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 2878.64,
+            "TotalContributions": 19318.94,
+            "TotalExpenditures": 16440.3,
             "incumbentFlag": true
         }
     },
@@ -472,9 +469,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5759,
-            "TotalCashonHand": 5269.71,
-            "TotalContributions": 5575,
-            "TotalExpenditures": 305.29,
+            "TotalCashonHand": 700.61,
+            "TotalContributions": 2025,
+            "TotalExpenditures": 1324.39,
             "incumbentFlag": true
         }
     },
@@ -487,9 +484,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6093,
-            "TotalCashonHand": 1913.52,
-            "TotalContributions": 1712.1,
-            "TotalExpenditures": 148.58,
+            "TotalCashonHand": 1278.22,
+            "TotalContributions": 4446,
+            "TotalExpenditures": 3917.78,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -515,9 +512,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5649,
-            "TotalCashonHand": 5807.44,
-            "TotalContributions": 6601,
-            "TotalExpenditures": 793.56,
+            "TotalCashonHand": 3222,
+            "TotalContributions": 11401,
+            "TotalExpenditures": 8179,
             "incumbentFlag": true
         },
         "DEMOCRATIC": {
@@ -528,9 +525,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5862,
-            "TotalCashonHand": 4145.45,
-            "TotalContributions": 6209.56,
-            "TotalExpenditures": 2064.11,
+            "TotalCashonHand": 152.11,
+            "TotalContributions": 7484.56,
+            "TotalExpenditures": 7332.45,
             "incumbentFlag": false
         }
     },
@@ -543,9 +540,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5901,
-            "TotalCashonHand": 850,
-            "TotalContributions": 850,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 771.51,
+            "TotalContributions": 2525,
+            "TotalExpenditures": 3253.49,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -556,13 +553,13 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5990,
-            "TotalCashonHand": 5408.53,
-            "TotalContributions": 6901.2,
-            "TotalExpenditures": 1492.67,
+            "TotalCashonHand": 1305.05,
+            "TotalContributions": 11341.2,
+            "TotalExpenditures": 10036.15,
             "incumbentFlag": false
         }
     },
-    "21": {       
+    "21": {
         "DEMOCRATIC": {
             "firstName": "KELCY FRYE ",
             "lastName": "MCNAMARA",
@@ -571,9 +568,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6137,
-            "TotalCashonHand": 6200.67,
-            "TotalContributions": 9508.52,
-            "TotalExpenditures": 3307.85,
+            "TotalCashonHand": 2013.94,
+            "TotalContributions": 13618.52,
+            "TotalExpenditures": 11604.58,
             "incumbentFlag": false
         },
         "GREEN INDEPENDENT": {
@@ -584,9 +581,9 @@ house_2018 = {
             "party": "GREEN INDEPENDENT",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6005,
-            "TotalCashonHand": 20.9,
-            "TotalContributions": 515,
-            "TotalExpenditures": 494.1,
+            "TotalCashonHand": 440.9,
+            "TotalContributions": 1165,
+            "TotalExpenditures": 724.1,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -597,9 +594,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5783,
-            "TotalCashonHand": 2313.67,
-            "TotalContributions": 6448.78,
-            "TotalExpenditures": 4135.11,
+            "TotalCashonHand": 1522.67,
+            "TotalContributions": 14063.03,
+            "TotalExpenditures": 12540.36,
             "incumbentFlag": true
         }
     },
@@ -612,9 +609,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5951,
-            "TotalCashonHand": 4218,
-            "TotalContributions": 6575,
-            "TotalExpenditures": 2357,
+            "TotalCashonHand": 1304.55,
+            "TotalContributions": 7850,
+            "TotalExpenditures": 6545.45,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -625,9 +622,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5830,
-            "TotalCashonHand": 6488.2,
-            "TotalContributions": 8385,
-            "TotalExpenditures": 1896.8,
+            "TotalCashonHand": 3651.73,
+            "TotalContributions": 15000,
+            "TotalExpenditures": 11348.27,
             "incumbentFlag": false
         }
     },
@@ -640,9 +637,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6075,
-            "TotalCashonHand": 5692.42,
-            "TotalContributions": 6753.86,
-            "TotalExpenditures": 1061.44,
+            "TotalCashonHand": 1363.88,
+            "TotalContributions": 11193.86,
+            "TotalExpenditures": 9829.98,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -653,9 +650,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5774,
-            "TotalCashonHand": 15050,
-            "TotalContributions": 50,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 14515.56,
+            "TotalContributions": 1475,
+            "TotalExpenditures": 1959.44,
             "incumbentFlag": true
         }
     },
@@ -668,9 +665,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5822,
-            "TotalCashonHand": 6565,
-            "TotalContributions": 7565,
-            "TotalExpenditures": 1000,
+            "TotalCashonHand": 327.49,
+            "TotalContributions": 12950,
+            "TotalExpenditures": 12622.51,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -681,9 +678,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6011,
-            "TotalCashonHand": 5310.2,
-            "TotalContributions": 6904.85,
-            "TotalExpenditures": 1594.65,
+            "TotalCashonHand": 32.36,
+            "TotalContributions": 9124.85,
+            "TotalExpenditures": 9092.49,
             "incumbentFlag": false
         }
     },
@@ -696,9 +693,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5878,
-            "TotalCashonHand": 5851.29,
-            "TotalContributions": 7347.44,
-            "TotalExpenditures": 1496.15,
+            "TotalCashonHand": 308.28,
+            "TotalContributions": 11457.44,
+            "TotalExpenditures": 11149.16,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -709,9 +706,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5836,
-            "TotalCashonHand": 6355.07,
-            "TotalContributions": 7738.43,
-            "TotalExpenditures": 1383.36,
+            "TotalCashonHand": 1146.76,
+            "TotalContributions": 12793.43,
+            "TotalExpenditures": 11646.67,
             "incumbentFlag": true
         }
     },
@@ -737,9 +734,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5763,
-            "TotalCashonHand": 6235,
-            "TotalContributions": 6925,
-            "TotalExpenditures": 690,
+            "TotalCashonHand": 300,
+            "TotalContributions": 4208.97,
+            "TotalExpenditures": 3908.97,
             "incumbentFlag": true
         }
     },
@@ -752,9 +749,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5868,
-            "TotalCashonHand": 400,
-            "TotalContributions": 400,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 280.19,
+            "TotalContributions": 2100,
+            "TotalExpenditures": 3319.81,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -765,9 +762,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5757,
-            "TotalCashonHand": 400,
-            "TotalContributions": 400,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 5037.61,
+            "TotalContributions": 6512,
+            "TotalExpenditures": 1474.39,
             "incumbentFlag": true
         }
     },
@@ -793,9 +790,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5992,
-            "TotalCashonHand": 5964.18,
-            "TotalContributions": 7235,
-            "TotalExpenditures": 1270.82,
+            "TotalCashonHand": 601.41,
+            "TotalContributions": 10400,
+            "TotalExpenditures": 9798.59,
             "incumbentFlag": false
         }
     },
@@ -808,9 +805,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5967,
-            "TotalCashonHand": 5575,
-            "TotalContributions": 6525,
-            "TotalExpenditures": 950,
+            "TotalCashonHand": 238.16,
+            "TotalContributions": 9075,
+            "TotalExpenditures": 8836.84,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -821,9 +818,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5807,
-            "TotalCashonHand": 994.15,
-            "TotalContributions": 2290,
-            "TotalExpenditures": 1295.85,
+            "TotalCashonHand": 3255.2,
+            "TotalContributions": 7615,
+            "TotalExpenditures": 4359.8,
             "incumbentFlag": true
         }
     },
@@ -836,12 +833,11 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5706,
-            "TotalCashonHand": 1109.04,
-            "TotalContributions": 11935,
-            "TotalExpenditures": 10825.96,
+            "TotalCashonHand": 5703.8,
+            "TotalContributions": 20610,
+            "TotalExpenditures": 14906.2,
             "incumbentFlag": false
         },
-      
         "REPUBLICAN": {
             "firstName": "Charles Peter ",
             "lastName": "Rich",
@@ -850,9 +846,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6118,
-            "TotalCashonHand": null,
-            "TotalContributions": null,
-            "TotalExpenditures": null,
+            "TotalCashonHand": -36.71,
+            "TotalContributions": 25.15,
+            "TotalExpenditures": 61.86,
             "incumbentFlag": false
         }
     },
@@ -878,9 +874,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5626,
-            "TotalCashonHand": 4924.93,
-            "TotalContributions": 6504.32,
-            "TotalExpenditures": 1579.39,
+            "TotalCashonHand": 2138.15,
+            "TotalContributions": 10204.32,
+            "TotalExpenditures": 8066.17,
             "incumbentFlag": true
         }
     },
@@ -893,12 +889,11 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6033,
-            "TotalCashonHand": 5976.44,
+            "TotalCashonHand": 5282.76,
             "TotalContributions": 8600,
-            "TotalExpenditures": 2623.56,
+            "TotalExpenditures": 3317.24,
             "incumbentFlag": false
         },
-        
         "REPUBLICAN": {
             "firstName": "Tammy B ",
             "lastName": "Walter",
@@ -907,9 +902,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6213,
-            "TotalCashonHand": 4288.44,
+            "TotalCashonHand": 1368.27,
             "TotalContributions": 5700,
-            "TotalExpenditures": 1411.56,
+            "TotalExpenditures": 4331.73,
             "incumbentFlag": false
         }
     },
@@ -935,9 +930,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5806,
-            "TotalCashonHand": 7555,
-            "TotalContributions": 8553.83,
-            "TotalExpenditures": 998.83,
+            "TotalCashonHand": 5922.1,
+            "TotalContributions": 14223.83,
+            "TotalExpenditures": 8301.73,
             "incumbentFlag": false
         }
     },
@@ -950,8 +945,8 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6120,
-            "TotalCashonHand": null,
-            "TotalContributions": null,
+            "TotalCashonHand": 800,
+            "TotalContributions": 800,
             "TotalExpenditures": null,
             "incumbentFlag": true
         }
@@ -965,9 +960,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6225,
-            "TotalCashonHand": 300,
-            "TotalContributions": 300,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 962.78,
+            "TotalContributions": 2475,
+            "TotalExpenditures": 1512.22,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -978,9 +973,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5939,
-            "TotalCashonHand": 1100,
-            "TotalContributions": 1100,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 206.02,
+            "TotalContributions": 1300,
+            "TotalExpenditures": 1093.98,
             "incumbentFlag": false
         }
     },
@@ -993,9 +988,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5808,
-            "TotalCashonHand": 4980,
+            "TotalCashonHand": 878,
             "TotalContributions": 6575,
-            "TotalExpenditures": 1595,
+            "TotalExpenditures": 5697,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -1021,9 +1016,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5891,
-            "TotalCashonHand": 5065,
+            "TotalCashonHand": 495.63,
             "TotalContributions": 6208.49,
-            "TotalExpenditures": 1143.49,
+            "TotalExpenditures": 5712.86,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -1062,9 +1057,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5716,
-            "TotalCashonHand": 400,
-            "TotalContributions": 400,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 775,
+            "TotalContributions": 1400,
+            "TotalExpenditures": 625,
             "incumbentFlag": true
         }
     },
@@ -1090,9 +1085,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5880,
-            "TotalCashonHand": 5125.17,
-            "TotalContributions": 5674.17,
-            "TotalExpenditures": 549,
+            "TotalCashonHand": 2744.09,
+            "TotalContributions": 5674.5,
+            "TotalExpenditures": 2930.41,
             "incumbentFlag": true
         }
     },
@@ -1105,9 +1100,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5875,
-            "TotalCashonHand": 2018.74,
+            "TotalCashonHand": 259.12,
             "TotalContributions": 4585.05,
-            "TotalExpenditures": 2566.31,
+            "TotalExpenditures": 4325.93,
             "incumbentFlag": true
         }
     },
@@ -1133,8 +1128,8 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5884,
-            "TotalCashonHand": 5500.12,
-            "TotalContributions": 5600,
+            "TotalCashonHand": 1950.12,
+            "TotalContributions": 2050,
             "TotalExpenditures": 99.88,
             "incumbentFlag": true
         }
@@ -1161,9 +1156,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5920,
-            "TotalCashonHand": 0,
+            "TotalCashonHand": -1128.83,
             "TotalContributions": 220,
-            "TotalExpenditures": 220,
+            "TotalExpenditures": 1348.83,
             "incumbentFlag": true
         }
     },
@@ -1176,9 +1171,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6082,
-            "TotalCashonHand": 1004.6,
-            "TotalContributions": 2300,
-            "TotalExpenditures": 1295.4,
+            "TotalCashonHand": 1126.63,
+            "TotalContributions": 2425,
+            "TotalExpenditures": 1298.37,
             "incumbentFlag": false
         }
     },
@@ -1191,9 +1186,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5910,
-            "TotalCashonHand": 6235,
-            "TotalContributions": 7234.7,
-            "TotalExpenditures": 999.7,
+            "TotalCashonHand": 727.3,
+            "TotalContributions": 9124.7,
+            "TotalExpenditures": 8397.4,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -1204,9 +1199,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5988,
-            "TotalCashonHand": 5310.42,
-            "TotalContributions": 6523.5,
-            "TotalExpenditures": 1213.08,
+            "TotalCashonHand": 1228.6,
+            "TotalContributions": 9073.5,
+            "TotalExpenditures": 7844.9,
             "incumbentFlag": false
         },
         "GREEN INDEPENDENT": {
@@ -1217,9 +1212,9 @@ house_2018 = {
             "party": "GREEN INDEPENDENT",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5997,
-            "TotalCashonHand": 782.52,
-            "TotalContributions": 1158,
-            "TotalExpenditures": 375.48,
+            "TotalCashonHand": 671.6,
+            "TotalContributions": 2003,
+            "TotalExpenditures": 1331.4,
             "incumbentFlag": false
         }
     },
@@ -1232,9 +1227,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5800,
-            "TotalCashonHand": 6494.01,
-            "TotalContributions": 8555,
-            "TotalExpenditures": 2060.99,
+            "TotalCashonHand": 4139.59,
+            "TotalContributions": 14225,
+            "TotalExpenditures": 10085.41,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -1260,9 +1255,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5725,
-            "TotalCashonHand": 5143.53,
-            "TotalContributions": 5188.53,
-            "TotalExpenditures": 45,
+            "TotalCashonHand": 2349.17,
+            "TotalContributions": 7563.53,
+            "TotalExpenditures": 5214.36,
             "incumbentFlag": true
         },
         "DEMOCRATIC": {
@@ -1273,9 +1268,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6036,
-            "TotalCashonHand": 5423,
-            "TotalContributions": 5905,
-            "TotalExpenditures": 482,
+            "TotalCashonHand": 84.54,
+            "TotalContributions": 6850,
+            "TotalExpenditures": 6765.46,
             "incumbentFlag": false
         }
     },
@@ -1288,9 +1283,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5900,
-            "TotalCashonHand": 6317.42,
-            "TotalContributions": 7165,
-            "TotalExpenditures": 847.58,
+            "TotalCashonHand": 4146.29,
+            "TotalContributions": 12550,
+            "TotalExpenditures": 8403.71,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -1301,9 +1296,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6068,
-            "TotalCashonHand": 5071.22,
-            "TotalContributions": 5912.9,
-            "TotalExpenditures": 841.68,
+            "TotalCashonHand": 0,
+            "TotalContributions": 847.68,
+            "TotalExpenditures": 847.68,
             "incumbentFlag": false
         },
         "UNENROLLED": {
@@ -1314,9 +1309,9 @@ house_2018 = {
             "party": "UNENROLLED",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5857,
-            "TotalCashonHand": 4393.5,
-            "TotalContributions": 6489.32,
-            "TotalExpenditures": 2095.82,
+            "TotalCashonHand": 3207.75,
+            "TotalContributions": 9039.32,
+            "TotalExpenditures": 5831.57,
             "incumbentFlag": false
         }
     },
@@ -1329,9 +1324,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5886,
-            "TotalCashonHand": 3539.8,
-            "TotalContributions": 3539.8,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 19.81,
+            "TotalContributions": 4314.8,
+            "TotalExpenditures": 4294.99,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -1398,9 +1393,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5728,
-            "TotalCashonHand": 7112.8,
-            "TotalContributions": 8555,
-            "TotalExpenditures": 1442.2,
+            "TotalCashonHand": 268.36,
+            "TotalContributions": 14225,
+            "TotalExpenditures": 13956.64,
             "incumbentFlag": true
         }
     },
@@ -1413,9 +1408,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5736,
-            "TotalCashonHand": 4912.5,
+            "TotalCashonHand": 3309.31,
             "TotalContributions": 6102.5,
-            "TotalExpenditures": 1190,
+            "TotalExpenditures": 2793.19,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -1426,9 +1421,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5737,
-            "TotalCashonHand": 3396.69,
-            "TotalContributions": 9206.88,
-            "TotalExpenditures": 5810.19,
+            "TotalCashonHand": 7829.64,
+            "TotalContributions": 16856.88,
+            "TotalExpenditures": 9027.24,
             "incumbentFlag": true
         }
     },
@@ -1441,9 +1436,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5869,
-            "TotalCashonHand": 5905,
-            "TotalContributions": 5935.56,
-            "TotalExpenditures": 30.56,
+            "TotalCashonHand": 1169.05,
+            "TotalContributions": 6880.56,
+            "TotalExpenditures": 5711.51,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -1469,9 +1464,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5727,
-            "TotalCashonHand": 7995.63,
-            "TotalContributions": 9214.65,
-            "TotalExpenditures": 1219.02,
+            "TotalCashonHand": 2219.19,
+            "TotalContributions": 16774.65,
+            "TotalExpenditures": 14555.46,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -1482,9 +1477,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5661,
-            "TotalCashonHand": 9056.08,
-            "TotalContributions": 10146.7,
-            "TotalExpenditures": 1090.62,
+            "TotalCashonHand": 5031.92,
+            "TotalContributions": 13143.33,
+            "TotalExpenditures": 8111.41,
             "incumbentFlag": true
         }
     },
@@ -1497,9 +1492,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6088,
-            "TotalCashonHand": 5188.47,
-            "TotalContributions": 5575,
-            "TotalExpenditures": 386.53,
+            "TotalCashonHand": 3095.54,
+            "TotalContributions": 6850,
+            "TotalExpenditures": 3754.46,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -1510,9 +1505,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5816,
-            "TotalCashonHand": 6235,
-            "TotalContributions": 7235,
-            "TotalExpenditures": 1000,
+            "TotalCashonHand": 994.7,
+            "TotalContributions": 10400,
+            "TotalExpenditures": 9405.3,
             "incumbentFlag": true
         }
     },
@@ -1525,9 +1520,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6023,
-            "TotalCashonHand": 8210,
-            "TotalContributions": 9215,
-            "TotalExpenditures": 1005,
+            "TotalCashonHand": 1851.79,
+            "TotalContributions": 16775,
+            "TotalExpenditures": 14923.21,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -1538,9 +1533,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6032,
-            "TotalCashonHand": 13894.73,
-            "TotalContributions": 17465,
-            "TotalExpenditures": 3570.27,
+            "TotalCashonHand": 3743.17,
+            "TotalContributions": 24434,
+            "TotalExpenditures": 20690.83,
             "incumbentFlag": false
         }
     },
@@ -1553,9 +1548,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5926,
-            "TotalCashonHand": 6967.87,
-            "TotalContributions": 9215,
-            "TotalExpenditures": 2247.13,
+            "TotalCashonHand": 3012.27,
+            "TotalContributions": 16775,
+            "TotalExpenditures": 13762.73,
             "incumbentFlag": true
         },
         "DEMOCRATIC": {
@@ -1566,9 +1561,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5954,
-            "TotalCashonHand": 5427.12,
-            "TotalContributions": 9238.01,
-            "TotalExpenditures": 3810.89,
+            "TotalCashonHand": 1252.3,
+            "TotalContributions": 11128.01,
+            "TotalExpenditures": 9875.71,
             "incumbentFlag": false
         }
     },
@@ -1581,9 +1576,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6141,
-            "TotalCashonHand": 5533.39,
+            "TotalCashonHand": 1003.39,
             "TotalContributions": 6024.07,
-            "TotalExpenditures": 490.68,
+            "TotalExpenditures": 5020.68,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -1594,9 +1589,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6139,
-            "TotalCashonHand": 4963.1,
+            "TotalCashonHand": 143.24,
             "TotalContributions": 6558.26,
-            "TotalExpenditures": 1595.16,
+            "TotalExpenditures": 6415.02,
             "incumbentFlag": false
         }
     },
@@ -1609,9 +1604,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5778,
-            "TotalCashonHand": 5575,
+            "TotalCashonHand": 287.77,
             "TotalContributions": 6290,
-            "TotalExpenditures": 715,
+            "TotalExpenditures": 6002.23,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -1622,9 +1617,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6116,
-            "TotalCashonHand": 4396.68,
+            "TotalCashonHand": 1167.17,
             "TotalContributions": 5775,
-            "TotalExpenditures": 1378.32,
+            "TotalExpenditures": 4607.83,
             "incumbentFlag": false
         }
     },
@@ -1637,9 +1632,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5912,
-            "TotalCashonHand": 5215,
-            "TotalContributions": 6892.52,
-            "TotalExpenditures": 1677.52,
+            "TotalCashonHand": 545.95,
+            "TotalContributions": 7837.52,
+            "TotalExpenditures": 7291.57,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -1650,9 +1645,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5893,
-            "TotalCashonHand": 5037.5,
+            "TotalCashonHand": 2394.06,
             "TotalContributions": 6458.9,
-            "TotalExpenditures": 1421.4,
+            "TotalExpenditures": 4064.84,
             "incumbentFlag": false
         }
     },
@@ -1665,9 +1660,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5837,
-            "TotalCashonHand": 6067.18,
-            "TotalContributions": 7235.54,
-            "TotalExpenditures": 1168.36,
+            "TotalCashonHand": 1672.98,
+            "TotalContributions": 10402.15,
+            "TotalExpenditures": 8729.17,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -1693,9 +1688,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6092,
-            "TotalCashonHand": 1091,
-            "TotalContributions": 1125,
-            "TotalExpenditures": 34,
+            "TotalCashonHand": 69.34,
+            "TotalContributions": 2340,
+            "TotalExpenditures": 2370.66,
             "incumbentFlag": true
         },
         "UNENROLLED": {
@@ -1706,9 +1701,9 @@ house_2018 = {
             "party": "UNENROLLED",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5998,
-            "TotalCashonHand": 68,
-            "TotalContributions": 100,
-            "TotalExpenditures": 32,
+            "TotalCashonHand": 1.36,
+            "TotalContributions": 435,
+            "TotalExpenditures": 433.64,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -1719,9 +1714,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 292833,
-            "TotalCashonHand": null,
-            "TotalContributions": null,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 252.46,
+            "TotalContributions": 2070,
+            "TotalExpenditures": 1817.54,
             "incumbentFlag": false
         },
         "GREEN INDEPENDENT": {
@@ -1732,9 +1727,9 @@ house_2018 = {
             "party": "GREEN INDEPENDENT",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6165,
-            "TotalCashonHand": 76.44,
+            "TotalCashonHand": 8.18,
             "TotalContributions": 170,
-            "TotalExpenditures": 93.56,
+            "TotalExpenditures": 161.82,
             "incumbentFlag": false
         }
     },
@@ -1747,9 +1742,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5828,
-            "TotalCashonHand": 2025,
+            "TotalCashonHand": 969.93,
             "TotalContributions": 3025,
-            "TotalExpenditures": 1000,
+            "TotalExpenditures": 2055.07,
             "incumbentFlag": true
         }
     },
@@ -1762,9 +1757,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5735,
-            "TotalCashonHand": 3216.78,
-            "TotalContributions": 5775,
-            "TotalExpenditures": 2558.22,
+            "TotalCashonHand": 2100.49,
+            "TotalContributions": 9425,
+            "TotalExpenditures": 7324.51,
             "incumbentFlag": true
         },
         "DEMOCRATIC": {
@@ -1775,9 +1770,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6107,
-            "TotalCashonHand": 5438.57,
-            "TotalContributions": 6330.64,
-            "TotalExpenditures": 892.07,
+            "TotalCashonHand": 872.87,
+            "TotalContributions": 7605.64,
+            "TotalExpenditures": 6732.77,
             "incumbentFlag": false
         }
     },
@@ -1790,9 +1785,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5852,
-            "TotalCashonHand": 6082.04,
-            "TotalContributions": 7234.29,
-            "TotalExpenditures": 1152.25,
+            "TotalCashonHand": 3674.54,
+            "TotalContributions": 9124.29,
+            "TotalExpenditures": 5449.75,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -1803,9 +1798,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6132,
-            "TotalCashonHand": null,
-            "TotalContributions": null,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 1049,
+            "TotalContributions": 2049,
+            "TotalExpenditures": 1000,
             "incumbentFlag": false
         }
     },
@@ -1818,9 +1813,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5704,
-            "TotalCashonHand": 3106.82,
-            "TotalContributions": 3795,
-            "TotalExpenditures": 688.18,
+            "TotalCashonHand": 1315.87,
+            "TotalContributions": 7905,
+            "TotalExpenditures": 6589.13,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -1831,9 +1826,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5839,
-            "TotalCashonHand": 5844.6,
-            "TotalContributions": 8281.99,
-            "TotalExpenditures": 2437.39,
+            "TotalCashonHand": 77.91,
+            "TotalContributions": 9556.99,
+            "TotalExpenditures": 9479.08,
             "incumbentFlag": false
         }
     },
@@ -1846,9 +1841,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5714,
-            "TotalCashonHand": 6890.56,
-            "TotalContributions": 7865,
-            "TotalExpenditures": 974.44,
+            "TotalCashonHand": 1266.71,
+            "TotalContributions": 11645,
+            "TotalExpenditures": 10378.29,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -1859,9 +1854,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6210,
-            "TotalCashonHand": 1164.77,
-            "TotalContributions": 2050,
-            "TotalExpenditures": 885.23,
+            "TotalCashonHand": 1141.38,
+            "TotalContributions": 6135,
+            "TotalExpenditures": 4993.62,
             "incumbentFlag": false
         }
     },
@@ -1874,9 +1869,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5977,
-            "TotalCashonHand": 3417.79,
-            "TotalContributions": 3417.79,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 2058.85,
+            "TotalContributions": 4417.79,
+            "TotalExpenditures": 2358.94,
             "incumbentFlag": false
         },
         "COMMON SENSE": {
@@ -1887,9 +1882,9 @@ house_2018 = {
             "party": "UNENROLLED",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5743,
-            "TotalCashonHand": 6853.71,
-            "TotalContributions": 8882.25,
-            "TotalExpenditures": 2028.54,
+            "TotalCashonHand": 6439.69,
+            "TotalContributions": 15497.25,
+            "TotalExpenditures": 9057.56,
             "incumbentFlag": false
         }
     },
@@ -1902,9 +1897,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6211,
-            "TotalCashonHand": 6565,
-            "TotalContributions": 6582.71,
-            "TotalExpenditures": 17.71,
+            "TotalCashonHand": 2019.38,
+            "TotalContributions": 10692.71,
+            "TotalExpenditures": 8673.33,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -1915,9 +1910,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5767,
-            "TotalCashonHand": 1791.5,
-            "TotalContributions": 3585,
-            "TotalExpenditures": 1793.5,
+            "TotalCashonHand": 540.61,
+            "TotalContributions": 5585,
+            "TotalExpenditures": 5044.39,
             "incumbentFlag": true
         }
     },
@@ -1930,9 +1925,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5991,
-            "TotalCashonHand": 915.1,
-            "TotalContributions": 1840,
-            "TotalExpenditures": 924.9,
+            "TotalCashonHand": 1726.19,
+            "TotalContributions": 6765,
+            "TotalExpenditures": 5038.81,
             "incumbentFlag": false
         },
         "UNENROLLED": {
@@ -1943,9 +1938,9 @@ house_2018 = {
             "party": "UNENROLLED",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5940,
-            "TotalCashonHand": 5737.29,
-            "TotalContributions": 7780,
-            "TotalExpenditures": 2042.71,
+            "TotalCashonHand": 1451.75,
+            "TotalContributions": 11560,
+            "TotalExpenditures": 10108.25,
             "incumbentFlag": false
         }
     },
@@ -1958,9 +1953,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6080,
-            "TotalCashonHand": 4718.06,
-            "TotalContributions": 7789.95,
-            "TotalExpenditures": 3071.89,
+            "TotalCashonHand": 5102.18,
+            "TotalContributions": 14214.95,
+            "TotalExpenditures": 9112.77,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -1971,9 +1966,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6069,
-            "TotalCashonHand": 4758.83,
-            "TotalContributions": 6785,
-            "TotalExpenditures": 2026.17,
+            "TotalCashonHand": 863.96,
+            "TotalContributions": 12545,
+            "TotalExpenditures": 11681.04,
             "incumbentFlag": false
         }
     },
@@ -1986,9 +1981,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5758,
-            "TotalCashonHand": 5789.29,
-            "TotalContributions": 7894.66,
-            "TotalExpenditures": 2105.37,
+            "TotalCashonHand": 3630.07,
+            "TotalContributions": 14224.66,
+            "TotalExpenditures": 10594.59,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -1999,9 +1994,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6122,
-            "TotalCashonHand": 650,
-            "TotalContributions": 650,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 443.27,
+            "TotalContributions": 14075,
+            "TotalExpenditures": 13631.73,
             "incumbentFlag": false
         }
     },
@@ -2014,9 +2009,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6071,
-            "TotalCashonHand": null,
-            "TotalContributions": null,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 237.48,
+            "TotalContributions": 900,
+            "TotalExpenditures": 662.52,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -2027,9 +2022,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5930,
-            "TotalCashonHand": 2236.9,
-            "TotalContributions": 4895.17,
-            "TotalExpenditures": 2658.27,
+            "TotalCashonHand": 117.07,
+            "TotalContributions": 6495.17,
+            "TotalExpenditures": 6378.1,
             "incumbentFlag": true
         },
         "UNENROLLED": {
@@ -2055,9 +2050,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5782,
-            "TotalCashonHand": 600.35,
-            "TotalContributions": 2955,
-            "TotalExpenditures": 2354.65,
+            "TotalCashonHand": 55.13,
+            "TotalContributions": 5005,
+            "TotalExpenditures": 4949.87,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -2068,9 +2063,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6043,
-            "TotalCashonHand": 5377,
-            "TotalContributions": 6754.79,
-            "TotalExpenditures": 1377.79,
+            "TotalCashonHand": 601.15,
+            "TotalContributions": 7699.79,
+            "TotalExpenditures": 7098.64,
             "incumbentFlag": false
         }
     },
@@ -2083,9 +2078,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5843,
-            "TotalCashonHand": 6185,
-            "TotalContributions": 6584,
-            "TotalExpenditures": 399,
+            "TotalCashonHand": 3300.97,
+            "TotalContributions": 8474,
+            "TotalExpenditures": 5173.03,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -2096,9 +2091,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5802,
-            "TotalCashonHand": 4826,
+            "TotalCashonHand": 246,
             "TotalContributions": 6374.28,
-            "TotalExpenditures": 1548.28,
+            "TotalExpenditures": 6128.28,
             "incumbentFlag": false
         }
     },
@@ -2111,9 +2106,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5777,
-            "TotalCashonHand": 4426.36,
-            "TotalContributions": 8435,
-            "TotalExpenditures": 4008.64,
+            "TotalCashonHand": 3449.99,
+            "TotalContributions": 18635,
+            "TotalExpenditures": 15185.01,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -2124,9 +2119,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5902,
-            "TotalCashonHand": 9043.73,
-            "TotalContributions": 15211,
-            "TotalExpenditures": 6167.27,
+            "TotalCashonHand": 864.88,
+            "TotalContributions": 19236,
+            "TotalExpenditures": 18371.12,
             "incumbentFlag": false
         }
     },
@@ -2139,9 +2134,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6142,
-            "TotalCashonHand": 200,
-            "TotalContributions": 4314.01,
-            "TotalExpenditures": 5114.01,
+            "TotalCashonHand": 746.39,
+            "TotalContributions": 9494.01,
+            "TotalExpenditures": 9747.62,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -2152,9 +2147,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 298649,
-            "TotalCashonHand": null,
-            "TotalContributions": null,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 1409.22,
+            "TotalContributions": 5410,
+            "TotalExpenditures": 4000.78,
             "incumbentFlag": false
         }
     },
@@ -2167,9 +2162,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5874,
-            "TotalCashonHand": 5380.82,
+            "TotalCashonHand": 3687.35,
             "TotalContributions": 5575,
-            "TotalExpenditures": 194.18,
+            "TotalExpenditures": 1887.65,
             "incumbentFlag": true
         }
     },
@@ -2182,9 +2177,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6089,
-            "TotalCashonHand": 5561.02,
+            "TotalCashonHand": 1192.97,
             "TotalContributions": 5575,
-            "TotalExpenditures": 13.98,
+            "TotalExpenditures": 4382.03,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -2195,9 +2190,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5872,
-            "TotalCashonHand": 5405,
-            "TotalContributions": 6094,
-            "TotalExpenditures": 689,
+            "TotalCashonHand": 1104.76,
+            "TotalContributions": 7039,
+            "TotalExpenditures": 5934.24,
             "incumbentFlag": false
         }
     },
@@ -2210,9 +2205,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6140,
-            "TotalCashonHand": 5163.29,
+            "TotalCashonHand": 2114.4,
             "TotalContributions": 5673.97,
-            "TotalExpenditures": 510.68,
+            "TotalExpenditures": 3559.57,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -2223,8 +2218,8 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5879,
-            "TotalCashonHand": 400,
-            "TotalContributions": 400,
+            "TotalCashonHand": 1200,
+            "TotalContributions": 1200,
             "TotalExpenditures": null,
             "incumbentFlag": true
         }
@@ -2238,9 +2233,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5855,
-            "TotalCashonHand": 4684.79,
-            "TotalContributions": 7234.54,
-            "TotalExpenditures": 2549.75,
+            "TotalCashonHand": 115.31,
+            "TotalContributions": 9124.54,
+            "TotalExpenditures": 9009.23,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -2251,9 +2246,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5903,
-            "TotalCashonHand": 1725,
-            "TotalContributions": 1725,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 4707.46,
+            "TotalContributions": 6290,
+            "TotalExpenditures": 1582.54,
             "incumbentFlag": true
         }
     },
@@ -2266,9 +2261,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6042,
-            "TotalCashonHand": 4109.67,
-            "TotalContributions": 4109.67,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 3059.67,
+            "TotalContributions": 4759.67,
+            "TotalExpenditures": 1700,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -2294,9 +2289,9 @@ house_2018 = {
             "party": "UNENROLLED",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5732,
-            "TotalCashonHand": 6748.7,
-            "TotalContributions": 8429.2,
-            "TotalExpenditures": 1680.5,
+            "TotalCashonHand": 7162.68,
+            "TotalContributions": 14099.2,
+            "TotalExpenditures": 6936.52,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -2307,9 +2302,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5973,
-            "TotalCashonHand": 5905,
-            "TotalContributions": 6205,
-            "TotalExpenditures": 300,
+            "TotalCashonHand": 2672.7,
+            "TotalContributions": 8425,
+            "TotalExpenditures": 5752.3,
             "incumbentFlag": false
         }
     },
@@ -2322,9 +2317,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 286248,
-            "TotalCashonHand": null,
-            "TotalContributions": null,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 2276.2,
+            "TotalContributions": 10270,
+            "TotalExpenditures": 7993.8,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -2335,9 +2330,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5754,
-            "TotalCashonHand": 6352.71,
-            "TotalContributions": 8222.11,
-            "TotalExpenditures": 1869.4,
+            "TotalCashonHand": 3971.44,
+            "TotalContributions": 12947.11,
+            "TotalExpenditures": 8975.67,
             "incumbentFlag": false
         }
     },
@@ -2350,9 +2345,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5987,
-            "TotalCashonHand": 100,
-            "TotalContributions": 100,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 301.17,
+            "TotalContributions": 1100,
+            "TotalExpenditures": 798.83,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -2363,9 +2358,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6057,
-            "TotalCashonHand": 3319.07,
-            "TotalContributions": 3550,
-            "TotalExpenditures": 230.93,
+            "TotalCashonHand": 4439.35,
+            "TotalContributions": 14469.58,
+            "TotalExpenditures": 10030.23,
             "incumbentFlag": true
         }
     },
@@ -2378,9 +2373,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5864,
-            "TotalCashonHand": 5286.24,
+            "TotalCashonHand": 823.6,
             "TotalContributions": 5575,
-            "TotalExpenditures": 288.76,
+            "TotalExpenditures": 4751.4,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -2391,9 +2386,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6061,
-            "TotalCashonHand": 993.87,
-            "TotalContributions": 1010,
-            "TotalExpenditures": 16.13,
+            "TotalCashonHand": 1191.34,
+            "TotalContributions": 2109.54,
+            "TotalExpenditures": 918.2,
             "incumbentFlag": false
         }
     },
@@ -2406,9 +2401,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5957,
-            "TotalCashonHand": 5324.29,
-            "TotalContributions": 6523.67,
-            "TotalExpenditures": 1199.38,
+            "TotalCashonHand": 1847.82,
+            "TotalContributions": 7798.67,
+            "TotalExpenditures": 5950.85,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -2419,9 +2414,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5721,
-            "TotalCashonHand": 7676.6,
-            "TotalContributions": 10829.28,
-            "TotalExpenditures": 3652.68,
+            "TotalCashonHand": 1804.24,
+            "TotalContributions": 15524.28,
+            "TotalExpenditures": 14220.04,
             "incumbentFlag": false
         }
     },
@@ -2434,9 +2429,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5751,
-            "TotalCashonHand": 522.13,
-            "TotalContributions": 1280,
-            "TotalExpenditures": 757.87,
+            "TotalCashonHand": 1258.52,
+            "TotalContributions": 4355,
+            "TotalExpenditures": 3096.48,
             "incumbentFlag": true
         },
         "DEMOCRATIC": {
@@ -2447,9 +2442,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5859,
-            "TotalCashonHand": 6470.27,
-            "TotalContributions": 7668.87,
-            "TotalExpenditures": 1198.6,
+            "TotalCashonHand": 976.29,
+            "TotalContributions": 11448.87,
+            "TotalExpenditures": 10472.58,
             "incumbentFlag": false
         }
     },
@@ -2462,9 +2457,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5961,
-            "TotalCashonHand": 3728.85,
+            "TotalCashonHand": 1978.85,
             "TotalContributions": 5925,
-            "TotalExpenditures": 2196.15,
+            "TotalExpenditures": 3946.15,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -2475,9 +2470,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5999,
-            "TotalCashonHand": 7777.64,
-            "TotalContributions": 10909.46,
-            "TotalExpenditures": 3131.82,
+            "TotalCashonHand": 5374.43,
+            "TotalContributions": 18799.46,
+            "TotalExpenditures": 13425.03,
             "incumbentFlag": false
         }
     },
@@ -2490,9 +2485,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6019,
-            "TotalCashonHand": 855.23,
-            "TotalContributions": 855.23,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 1019.7,
+            "TotalContributions": 7905.23,
+            "TotalExpenditures": 6885.53,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -2503,9 +2498,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6065,
-            "TotalCashonHand": 6708.75,
-            "TotalContributions": 7894.98,
-            "TotalExpenditures": 1186.23,
+            "TotalCashonHand": -4241.52,
+            "TotalContributions": 11674.98,
+            "TotalExpenditures": 15916.5,
             "incumbentFlag": false
         }
     },
@@ -2518,9 +2513,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5917,
-            "TotalCashonHand": 6895,
-            "TotalContributions": 7895,
-            "TotalExpenditures": 1000,
+            "TotalCashonHand": 3813.97,
+            "TotalContributions": 12950,
+            "TotalExpenditures": 9136.03,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -2531,9 +2526,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6007,
-            "TotalCashonHand": 1200,
-            "TotalContributions": 1200,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 572,
+            "TotalContributions": 1800,
+            "TotalExpenditures": 1228,
             "incumbentFlag": false
         }
     },
@@ -2546,9 +2541,9 @@ house_2018 = {
             "party": "UNENROLLED",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5908,
-            "TotalCashonHand": 3580.42,
-            "TotalContributions": 8224.64,
-            "TotalExpenditures": 4644.22,
+            "TotalCashonHand": 10.85,
+            "TotalContributions": 15499.64,
+            "TotalExpenditures": 15488.79,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -2559,9 +2554,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5918,
-            "TotalCashonHand": 5575,
+            "TotalCashonHand": 92.38,
             "TotalContributions": 5575,
-            "TotalExpenditures": null,
+            "TotalExpenditures": 5482.62,
             "incumbentFlag": true
         }
     },
@@ -2574,9 +2569,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6108,
-            "TotalCashonHand": 5996.54,
-            "TotalContributions": 6615.88,
-            "TotalExpenditures": 619.34,
+            "TotalCashonHand": 2950,
+            "TotalContributions": 8505.88,
+            "TotalExpenditures": 5555.88,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -2587,9 +2582,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6074,
-            "TotalCashonHand": -17.01,
-            "TotalContributions": 2722.5,
-            "TotalExpenditures": 2739.51,
+            "TotalCashonHand": 168.86,
+            "TotalContributions": 5917.5,
+            "TotalExpenditures": 5748.64,
             "incumbentFlag": false
         }
     },
@@ -2602,9 +2597,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5887,
-            "TotalCashonHand": 5226.46,
+            "TotalCashonHand": 319.38,
             "TotalContributions": 6495,
-            "TotalExpenditures": 1268.54,
+            "TotalExpenditures": 6175.62,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -2615,9 +2610,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6110,
-            "TotalCashonHand": 1284.2,
-            "TotalContributions": 2205,
-            "TotalExpenditures": 920.8,
+            "TotalCashonHand": 51.99,
+            "TotalContributions": 6089,
+            "TotalExpenditures": 6037.01,
             "incumbentFlag": false
         }
     },
@@ -2630,9 +2625,9 @@ house_2018 = {
             "party": "UNENROLLED",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6079,
-            "TotalCashonHand": 6789.6,
-            "TotalContributions": 7670,
-            "TotalExpenditures": 880.4,
+            "TotalCashonHand": 2131.97,
+            "TotalContributions": 11450,
+            "TotalExpenditures": 9318.03,
             "incumbentFlag": true
         },
         "DEMOCRATIC": {
@@ -2643,9 +2638,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5963,
-            "TotalCashonHand": 7297.3,
-            "TotalContributions": 8884.76,
-            "TotalExpenditures": 1587.46,
+            "TotalCashonHand": 2958.01,
+            "TotalContributions": 15499.76,
+            "TotalExpenditures": 12541.75,
             "incumbentFlag": false
         }
     },
@@ -2658,9 +2653,9 @@ house_2018 = {
             "party": "UNENROLLED",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5942,
-            "TotalCashonHand": 6017.12,
-            "TotalContributions": 8089.66,
-            "TotalExpenditures": 2072.54,
+            "TotalCashonHand": 871.59,
+            "TotalContributions": 12814.66,
+            "TotalExpenditures": 11943.07,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -2671,9 +2666,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5729,
-            "TotalCashonHand": 6157.9,
-            "TotalContributions": 6933.69,
-            "TotalExpenditures": 775.79,
+            "TotalCashonHand": 1414.47,
+            "TotalContributions": 11483.69,
+            "TotalExpenditures": 10069.22,
             "incumbentFlag": true
         }
     },
@@ -2686,9 +2681,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6063,
-            "TotalCashonHand": null,
-            "TotalContributions": null,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 1073.26,
+            "TotalContributions": 1380,
+            "TotalExpenditures": 306.74,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -2699,9 +2694,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5746,
-            "TotalCashonHand": 6393.63,
-            "TotalContributions": 7558.45,
-            "TotalExpenditures": 1164.82,
+            "TotalCashonHand": 2482.86,
+            "TotalContributions": 10393.45,
+            "TotalExpenditures": 7910.59,
             "incumbentFlag": true
         }
     },
@@ -2714,9 +2709,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6002,
-            "TotalCashonHand": -222.47,
+            "TotalCashonHand": 266.99,
             "TotalContributions": 266.99,
-            "TotalExpenditures": 489.46,
+            "TotalExpenditures": 0,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -2727,9 +2722,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5815,
-            "TotalCashonHand": 7122.81,
-            "TotalContributions": 9254.86,
-            "TotalExpenditures": 2132.05,
+            "TotalCashonHand": 7368.53,
+            "TotalContributions": 11144.86,
+            "TotalExpenditures": 3776.33,
             "incumbentFlag": false
         }
     },
@@ -2742,9 +2737,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5978,
-            "TotalCashonHand": 5905,
-            "TotalContributions": 6525.09,
-            "TotalExpenditures": 620.09,
+            "TotalCashonHand": 813.34,
+            "TotalContributions": 7470.09,
+            "TotalExpenditures": 6656.75,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -2755,9 +2750,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6027,
-            "TotalCashonHand": 100,
-            "TotalContributions": 100,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 1256.9,
+            "TotalContributions": 1950,
+            "TotalExpenditures": 693.1,
             "incumbentFlag": false
         }
     },
@@ -2770,9 +2765,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5739,
-            "TotalCashonHand": 715.66,
-            "TotalContributions": 810,
-            "TotalExpenditures": 94.34,
+            "TotalCashonHand": 1861.32,
+            "TotalContributions": 3585,
+            "TotalExpenditures": 1723.68,
             "incumbentFlag": true
         },
         "DEMOCRATIC": {
@@ -2783,9 +2778,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5844,
-            "TotalCashonHand": 6200.6,
-            "TotalContributions": 8413.35,
-            "TotalExpenditures": 2212.75,
+            "TotalCashonHand": 1322.88,
+            "TotalContributions": 9688.35,
+            "TotalExpenditures": 8365.47,
             "incumbentFlag": false
         }
     },
@@ -2798,9 +2793,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 289400,
-            "TotalCashonHand": null,
-            "TotalContributions": null,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 198.62,
+            "TotalContributions": 1080,
+            "TotalExpenditures": 881.38,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -2811,9 +2806,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5845,
-            "TotalCashonHand": 1336.14,
-            "TotalContributions": 1650,
-            "TotalExpenditures": 3430.12,
+            "TotalCashonHand": 406.66,
+            "TotalContributions": 2050,
+            "TotalExpenditures": 5559.6,
             "incumbentFlag": false
         }
     },
@@ -2826,9 +2821,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5624,
-            "TotalCashonHand": 5575,
+            "TotalCashonHand": 215.5,
             "TotalContributions": 5692,
-            "TotalExpenditures": 117,
+            "TotalExpenditures": 5476.5,
             "incumbentFlag": false
         },
         "GREEN INDEPENDENT": {
@@ -2839,9 +2834,9 @@ house_2018 = {
             "party": "GREEN INDEPENDENT",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6195,
-            "TotalCashonHand": 25.05,
-            "TotalContributions": 323,
-            "TotalExpenditures": 297.95,
+            "TotalCashonHand": -92.86,
+            "TotalContributions": 630.2,
+            "TotalExpenditures": 723.06,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -2852,9 +2847,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5949,
-            "TotalCashonHand": 1795.13,
-            "TotalContributions": 1853.16,
-            "TotalExpenditures": 58.03,
+            "TotalCashonHand": 4655.74,
+            "TotalContributions": 8453.16,
+            "TotalExpenditures": 3797.42,
             "incumbentFlag": false
         }
     },
@@ -2867,9 +2862,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5629,
-            "TotalCashonHand": 6121.7,
-            "TotalContributions": 8312.04,
-            "TotalExpenditures": 2190.34,
+            "TotalCashonHand": 5201.12,
+            "TotalContributions": 9257.04,
+            "TotalExpenditures": 4055.92,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -2908,9 +2903,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5810,
-            "TotalCashonHand": 1710.01,
-            "TotalContributions": 1710.01,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 1277.4,
+            "TotalContributions": 2410.01,
+            "TotalExpenditures": 1132.61,
             "incumbentFlag": true
         }
     },
@@ -2923,9 +2918,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5745,
-            "TotalCashonHand": 4995.73,
-            "TotalContributions": 6229.69,
-            "TotalExpenditures": 1233.96,
+            "TotalCashonHand": 120.29,
+            "TotalContributions": 2349.95,
+            "TotalExpenditures": 2229.66,
             "incumbentFlag": false
         }
     },
@@ -2938,9 +2933,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6078,
-            "TotalCashonHand": 4663.66,
-            "TotalContributions": 6235,
-            "TotalExpenditures": 1571.34,
+            "TotalCashonHand": 339.77,
+            "TotalContributions": 7555,
+            "TotalExpenditures": 7215.23,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -2951,9 +2946,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5713,
-            "TotalCashonHand": 5079.57,
-            "TotalContributions": 6384.43,
-            "TotalExpenditures": 1304.86,
+            "TotalCashonHand": -248.43,
+            "TotalContributions": 7444.43,
+            "TotalExpenditures": 7692.86,
             "incumbentFlag": true
         }
     },
@@ -2966,9 +2961,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5824,
-            "TotalCashonHand": 130.09,
-            "TotalContributions": 2255,
-            "TotalExpenditures": 2124.91,
+            "TotalCashonHand": 94.46,
+            "TotalContributions": 4275,
+            "TotalExpenditures": 4180.54,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -2979,9 +2974,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5651,
-            "TotalCashonHand": 977.34,
-            "TotalContributions": 2564.47,
-            "TotalExpenditures": 1587.13,
+            "TotalCashonHand": 835.12,
+            "TotalContributions": 4614.47,
+            "TotalExpenditures": 3779.35,
             "incumbentFlag": true
         }
     },
@@ -2994,9 +2989,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5719,
-            "TotalCashonHand": 1855.85,
-            "TotalContributions": 1884.3,
-            "TotalExpenditures": 28.45,
+            "TotalCashonHand": 996.17,
+            "TotalContributions": 4739.3,
+            "TotalExpenditures": 3743.13,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -3007,14 +3002,13 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5823,
-            "TotalCashonHand": 5423,
-            "TotalContributions": 6152.93,
-            "TotalExpenditures": 729.93,
+            "TotalCashonHand": 561.16,
+            "TotalContributions": 7097.93,
+            "TotalExpenditures": 6536.77,
             "incumbentFlag": true
         }
     },
     "108": {
-       
         "DEMOCRATIC": {
             "firstName": "Aaron Blaschke ",
             "lastName": "Rowden",
@@ -3023,9 +3017,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5744,
-            "TotalCashonHand": 5575,
+            "TotalCashonHand": 4993.23,
             "TotalContributions": 5625,
-            "TotalExpenditures": 50,
+            "TotalExpenditures": 631.77,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -3036,14 +3030,13 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5688,
-            "TotalCashonHand": 5201.8,
+            "TotalCashonHand": 190.51,
             "TotalContributions": 7783.63,
-            "TotalExpenditures": 2581.83,
+            "TotalExpenditures": 7593.12,
             "incumbentFlag": false
         }
     },
     "109": {
-       
         "REPUBLICAN": {
             "firstName": "Karen",
             "lastName": "Rancourt-Thomas",
@@ -3052,8 +3045,8 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5960,
-            "TotalCashonHand": null,
-            "TotalContributions": null,
+            "TotalCashonHand": 525,
+            "TotalContributions": 525,
             "TotalExpenditures": null,
             "incumbentFlag": false
         },
@@ -3065,9 +3058,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5700,
-            "TotalCashonHand": 5359.7,
-            "TotalContributions": 9260,
-            "TotalExpenditures": 3900.3,
+            "TotalCashonHand": 1156.68,
+            "TotalContributions": 14975,
+            "TotalExpenditures": 13818.32,
             "incumbentFlag": false
         }
     },
@@ -3080,9 +3073,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6077,
-            "TotalCashonHand": 86.31,
-            "TotalContributions": 2525,
-            "TotalExpenditures": 2438.69,
+            "TotalCashonHand": 983.38,
+            "TotalContributions": 11425,
+            "TotalExpenditures": 10441.62,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -3093,9 +3086,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5818,
-            "TotalCashonHand": 5575,
+            "TotalCashonHand": 1093.76,
             "TotalContributions": 5575,
-            "TotalExpenditures": null,
+            "TotalExpenditures": 4481.24,
             "incumbentFlag": true
         }
     },
@@ -3108,9 +3101,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5946,
-            "TotalCashonHand": 2716.96,
-            "TotalContributions": 2716.96,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 747.63,
+            "TotalContributions": 3116.96,
+            "TotalExpenditures": 2369.33,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -3121,9 +3114,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 286237,
-            "TotalCashonHand": null,
-            "TotalContributions": null,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 584,
+            "TotalContributions": 8440.62,
+            "TotalExpenditures": 7856.62,
             "incumbentFlag": false
         }
     },
@@ -3136,9 +3129,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5740,
-            "TotalCashonHand": 5905,
-            "TotalContributions": 5905,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 1755.79,
+            "TotalContributions": 6850,
+            "TotalExpenditures": 5094.21,
             "incumbentFlag": true
         },
         "DEMOCRATIC": {
@@ -3149,9 +3142,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6072,
-            "TotalCashonHand": 4564.5,
-            "TotalContributions": 5972.13,
-            "TotalExpenditures": 1407.63,
+            "TotalCashonHand": -348.45,
+            "TotalContributions": 6917.13,
+            "TotalExpenditures": 7265.58,
             "incumbentFlag": false
         }
     },
@@ -3164,9 +3157,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5863,
-            "TotalCashonHand": 6238.9,
-            "TotalContributions": 7862.85,
-            "TotalExpenditures": 1623.95,
+            "TotalCashonHand": 584.62,
+            "TotalContributions": 11642.85,
+            "TotalExpenditures": 11058.23,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -3177,9 +3170,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6026,
-            "TotalCashonHand": 7825.35,
-            "TotalContributions": 8885,
-            "TotalExpenditures": 1059.65,
+            "TotalCashonHand": 4274.21,
+            "TotalContributions": 15500,
+            "TotalExpenditures": 11225.79,
             "incumbentFlag": false
         }
     },
@@ -3192,9 +3185,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5790,
-            "TotalCashonHand": 4647.26,
-            "TotalContributions": 6502.81,
-            "TotalExpenditures": 1855.55,
+            "TotalCashonHand": 3080.25,
+            "TotalContributions": 7447.81,
+            "TotalExpenditures": 4367.56,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -3205,9 +3198,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5958,
-            "TotalCashonHand": 4947.08,
-            "TotalContributions": 5955,
-            "TotalExpenditures": 1007.92,
+            "TotalCashonHand": 271.71,
+            "TotalContributions": 8175,
+            "TotalExpenditures": 7903.29,
             "incumbentFlag": false
         },
         "UNENROLLED": {
@@ -3218,9 +3211,9 @@ house_2018 = {
             "party": "UNENROLLED",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5724,
-            "TotalCashonHand": 393.6,
-            "TotalContributions": 600,
-            "TotalExpenditures": 206.4,
+            "TotalCashonHand": -22.84,
+            "TotalContributions": 500,
+            "TotalExpenditures": 522.84,
             "incumbentFlag": false
         }
     },
@@ -3233,9 +3226,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 291630,
-            "TotalCashonHand": null,
-            "TotalContributions": null,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 890.54,
+            "TotalContributions": 5007.5,
+            "TotalExpenditures": 4116.96,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -3246,9 +3239,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5969,
-            "TotalCashonHand": 5905,
-            "TotalContributions": 6877.94,
-            "TotalExpenditures": 972.94,
+            "TotalCashonHand": 1606.41,
+            "TotalContributions": 7822.94,
+            "TotalExpenditures": 6216.53,
             "incumbentFlag": false
         }
     },
@@ -3261,9 +3254,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6098,
-            "TotalCashonHand": 4080.49,
+            "TotalCashonHand": 297.15,
             "TotalContributions": 6547.07,
-            "TotalExpenditures": 2466.58,
+            "TotalExpenditures": 6249.92,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -3274,9 +3267,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5897,
-            "TotalCashonHand": 5575,
-            "TotalContributions": 6212.85,
-            "TotalExpenditures": 637.85,
+            "TotalCashonHand": 3639.57,
+            "TotalContributions": 11312.85,
+            "TotalExpenditures": 7673.28,
             "incumbentFlag": true
         }
     },
@@ -3289,9 +3282,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6220,
-            "TotalCashonHand": 446.96,
-            "TotalContributions": 700,
-            "TotalExpenditures": 253.04,
+            "TotalCashonHand": 1775.01,
+            "TotalContributions": 5340,
+            "TotalExpenditures": 3564.99,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -3302,9 +3295,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5789,
-            "TotalCashonHand": 4937.55,
-            "TotalContributions": 6106,
-            "TotalExpenditures": 1168.45,
+            "TotalCashonHand": 3328.53,
+            "TotalContributions": 7381,
+            "TotalExpenditures": 4052.47,
             "incumbentFlag": false
         }
     },
@@ -3317,9 +3310,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6218,
-            "TotalCashonHand": 929.27,
-            "TotalContributions": 929.27,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 23.48,
+            "TotalContributions": 1329.27,
+            "TotalExpenditures": 2565.79,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -3330,9 +3323,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6191,
-            "TotalCashonHand": null,
-            "TotalContributions": null,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 211,
+            "TotalContributions": 915,
+            "TotalExpenditures": 704,
             "incumbentFlag": false
         }
     },
@@ -3345,9 +3338,9 @@ house_2018 = {
             "party": "UNENROLLED",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6013,
-            "TotalCashonHand": 5652.15,
-            "TotalContributions": 6899.51,
-            "TotalExpenditures": 1247.36,
+            "TotalCashonHand": 7563.05,
+            "TotalContributions": 14219.51,
+            "TotalExpenditures": 6656.46,
             "incumbentFlag": false
         },
         "GREEN INDEPENDENT": {
@@ -3371,9 +3364,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5664,
-            "TotalCashonHand": 4610.21,
-            "TotalContributions": 7391.68,
-            "TotalExpenditures": 2781.47,
+            "TotalCashonHand": 1747.61,
+            "TotalContributions": 11171.68,
+            "TotalExpenditures": 9424.07,
             "incumbentFlag": true
         }
     },
@@ -3386,9 +3379,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6030,
-            "TotalCashonHand": 6311.87,
-            "TotalContributions": 8100,
-            "TotalExpenditures": 1788.13,
+            "TotalCashonHand": 198.69,
+            "TotalContributions": 12825,
+            "TotalExpenditures": 12626.31,
             "incumbentFlag": false
         },
         "UNENROLLED": {
@@ -3399,9 +3392,9 @@ house_2018 = {
             "party": "COMMON SENSE",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5945,
-            "TotalCashonHand": 6174.08,
-            "TotalContributions": 8885,
-            "TotalExpenditures": 2710.92,
+            "TotalCashonHand": 3733.03,
+            "TotalContributions": 16775,
+            "TotalExpenditures": 13041.97,
             "incumbentFlag": true
         }
     },
@@ -3414,9 +3407,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6214,
-            "TotalCashonHand": 5905,
-            "TotalContributions": 5905,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 1917.14,
+            "TotalContributions": 6850,
+            "TotalExpenditures": 4932.86,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -3427,9 +3420,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6105,
-            "TotalCashonHand": 5505,
-            "TotalContributions": 5945,
-            "TotalExpenditures": 440,
+            "TotalCashonHand": 3837.56,
+            "TotalContributions": 6890,
+            "TotalExpenditures": 3052.44,
             "incumbentFlag": false
         },
         "UNENROLLED": {
@@ -3440,9 +3433,9 @@ house_2018 = {
             "party": "UNENROLLED",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6221,
-            "TotalCashonHand": 65.3,
-            "TotalContributions": 170,
-            "TotalExpenditures": 104.7,
+            "TotalCashonHand": 190.9,
+            "TotalContributions": 420,
+            "TotalExpenditures": 229.1,
             "incumbentFlag": false
         }
     },
@@ -3455,9 +3448,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5833,
-            "TotalCashonHand": 5100,
+            "TotalCashonHand": 188.05,
             "TotalContributions": 6523.6,
-            "TotalExpenditures": 1423.6,
+            "TotalExpenditures": 6335.55,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -3468,9 +3461,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5731,
-            "TotalCashonHand": 225,
-            "TotalContributions": 225,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 111.98,
+            "TotalContributions": 600,
+            "TotalExpenditures": 488.02,
             "incumbentFlag": false
         }
     },
@@ -3483,9 +3476,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6091,
-            "TotalCashonHand": 215,
-            "TotalContributions": 220,
-            "TotalExpenditures": 5,
+            "TotalCashonHand": 254.33,
+            "TotalContributions": 560,
+            "TotalExpenditures": 305.67,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -3496,9 +3489,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6059,
-            "TotalCashonHand": 5075,
+            "TotalCashonHand": 3385.87,
             "TotalContributions": 5575,
-            "TotalExpenditures": 500,
+            "TotalExpenditures": 2189.13,
             "incumbentFlag": true
         }
     },
@@ -3511,9 +3504,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6198,
-            "TotalCashonHand": null,
-            "TotalContributions": null,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 563,
+            "TotalContributions": 3882,
+            "TotalExpenditures": 3319,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -3524,9 +3517,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5636,
-            "TotalCashonHand": 200,
-            "TotalContributions": 200,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 284.92,
+            "TotalContributions": 400,
+            "TotalExpenditures": 115.08,
             "incumbentFlag": false
         }
     },
@@ -3539,9 +3532,9 @@ house_2018 = {
             "party": "LIBERTARIAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5708,
-            "TotalCashonHand": 145,
-            "TotalContributions": 145,
-            "TotalExpenditures": 0,
+            "TotalCashonHand": 0,
+            "TotalContributions": 150,
+            "TotalExpenditures": 150,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -3552,8 +3545,8 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6164,
-            "TotalCashonHand": 100,
-            "TotalContributions": 100,
+            "TotalCashonHand": 855,
+            "TotalContributions": 855,
             "TotalExpenditures": null,
             "incumbentFlag": false
         },
@@ -3565,9 +3558,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5834,
-            "TotalCashonHand": 5575,
+            "TotalCashonHand": 1177,
             "TotalContributions": 5575,
-            "TotalExpenditures": null,
+            "TotalExpenditures": 4398,
             "incumbentFlag": true
         }
     },
@@ -3580,9 +3573,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6062,
-            "TotalCashonHand": 4455.37,
-            "TotalContributions": 6164.06,
-            "TotalExpenditures": 1708.69,
+            "TotalCashonHand": 2870.32,
+            "TotalContributions": 8714.06,
+            "TotalExpenditures": 5843.74,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -3593,9 +3586,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5741,
-            "TotalCashonHand": 5575,
-            "TotalContributions": 5586.61,
-            "TotalExpenditures": 11.61,
+            "TotalCashonHand": 2799.96,
+            "TotalContributions": 6861.61,
+            "TotalExpenditures": 4061.65,
             "incumbentFlag": true
         }
     },
@@ -3608,9 +3601,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5772,
-            "TotalCashonHand": 5440.36,
+            "TotalCashonHand": 450.5,
             "TotalContributions": 6570,
-            "TotalExpenditures": 1129.64,
+            "TotalExpenditures": 6119.5,
             "incumbentFlag": true
         },
         "UNENROLLED": {
@@ -3621,9 +3614,9 @@ house_2018 = {
             "party": "UNENROLLED",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5679,
-            "TotalCashonHand": 5339.04,
+            "TotalCashonHand": 1924.05,
             "TotalContributions": 6555,
-            "TotalExpenditures": 1215.96,
+            "TotalExpenditures": 4630.95,
             "incumbentFlag": false
         }
     },
@@ -3636,9 +3629,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5656,
-            "TotalCashonHand": 493.48,
-            "TotalContributions": 1365,
-            "TotalExpenditures": 871.52,
+            "TotalCashonHand": 1754.18,
+            "TotalContributions": 7245,
+            "TotalExpenditures": 5490.82,
             "incumbentFlag": true
         },
         "DEMOCRATIC": {
@@ -3649,9 +3642,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5765,
-            "TotalCashonHand": 6565,
-            "TotalContributions": 7110.56,
-            "TotalExpenditures": 545.56,
+            "TotalCashonHand": 3578.36,
+            "TotalContributions": 12495.56,
+            "TotalExpenditures": 8917.2,
             "incumbentFlag": false
         }
     },
@@ -3664,9 +3657,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6015,
-            "TotalCashonHand": -94.5,
-            "TotalContributions": 700,
-            "TotalExpenditures": 794.5,
+            "TotalCashonHand": 1894.38,
+            "TotalContributions": 4820,
+            "TotalExpenditures": 2925.62,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -3692,9 +3685,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5678,
-            "TotalCashonHand": 1775.42,
-            "TotalContributions": 4660.11,
-            "TotalExpenditures": 2884.69,
+            "TotalCashonHand": 2186.5,
+            "TotalContributions": 11765.94,
+            "TotalExpenditures": 9579.44,
             "incumbentFlag": true
         },
         "DEMOCRATIC": {
@@ -3705,9 +3698,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6104,
-            "TotalCashonHand": 5682.41,
-            "TotalContributions": 6517.42,
-            "TotalExpenditures": 835.01,
+            "TotalCashonHand": 808.24,
+            "TotalContributions": 8407.42,
+            "TotalExpenditures": 7599.18,
             "incumbentFlag": false
         }
     },
@@ -3720,9 +3713,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6067,
-            "TotalCashonHand": 5930,
-            "TotalContributions": 7156.55,
-            "TotalExpenditures": 1226.55,
+            "TotalCashonHand": 1671.41,
+            "TotalContributions": 10321.55,
+            "TotalExpenditures": 8650.14,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -3733,9 +3726,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 285762,
-            "TotalCashonHand": null,
-            "TotalContributions": null,
-            "TotalExpenditures": 100.55,
+            "TotalCashonHand": 422.26,
+            "TotalContributions": 5708,
+            "TotalExpenditures": 5285.74,
             "incumbentFlag": false
         }
     },
@@ -3748,9 +3741,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 286252,
-            "TotalCashonHand": null,
-            "TotalContributions": null,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 3387.87,
+            "TotalContributions": 12448.5,
+            "TotalExpenditures": 9060.63,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -3761,9 +3754,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6219,
-            "TotalCashonHand": 5575,
-            "TotalContributions": 5575,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 2808.78,
+            "TotalContributions": 8125,
+            "TotalExpenditures": 5316.22,
             "incumbentFlag": false
         }
     },
@@ -3776,9 +3769,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6081,
-            "TotalCashonHand": 550.36,
-            "TotalContributions": 1700,
-            "TotalExpenditures": 1149.64,
+            "TotalCashonHand": 255.78,
+            "TotalContributions": 3600,
+            "TotalExpenditures": 3344.22,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -3789,9 +3782,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5980,
-            "TotalCashonHand": 8187.15,
-            "TotalContributions": 9206.15,
-            "TotalExpenditures": 1019,
+            "TotalCashonHand": 8010.6,
+            "TotalContributions": 16769.05,
+            "TotalExpenditures": 8758.45,
             "incumbentFlag": false
         }
     },
@@ -3817,9 +3810,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5847,
-            "TotalCashonHand": 906.19,
-            "TotalContributions": 1185,
-            "TotalExpenditures": 278.81,
+            "TotalCashonHand": 708.72,
+            "TotalContributions": 2230,
+            "TotalExpenditures": 1521.28,
             "incumbentFlag": false
         }
     },
@@ -3832,9 +3825,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5831,
-            "TotalCashonHand": 5767.32,
-            "TotalContributions": 5905,
-            "TotalExpenditures": 137.68,
+            "TotalCashonHand": 4633.15,
+            "TotalContributions": 6850,
+            "TotalExpenditures": 2216.85,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -3845,9 +3838,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6047,
-            "TotalCashonHand": 60.32,
-            "TotalContributions": 60.32,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 187.88,
+            "TotalContributions": 210.32,
+            "TotalExpenditures": 22.44,
             "incumbentFlag": false
         }
     },
@@ -3860,22 +3853,22 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5787,
-            "TotalCashonHand": 5575,
+            "TotalCashonHand": 1209.06,
             "TotalContributions": 6364.91,
-            "TotalExpenditures": 789.91,
+            "TotalExpenditures": 5155.85,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
-            "firstName": "William “Billy Bob” ",
+            "firstName": "William \u201cBilly Bob\u201d ",
             "lastName": "Faulkingham",
             "district": "136",
             "office": "REPRESENTATIVE",
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5805,
-            "TotalCashonHand": null,
-            "TotalContributions": null,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 1241.31,
+            "TotalContributions": 7960,
+            "TotalExpenditures": 6718.69,
             "incumbentFlag": false
         }
     },
@@ -3888,9 +3881,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5993,
-            "TotalCashonHand": 5626,
-            "TotalContributions": 7200,
-            "TotalExpenditures": 1574,
+            "TotalCashonHand": 2124.61,
+            "TotalContributions": 9090,
+            "TotalExpenditures": 6965.39,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -3901,9 +3894,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5610,
-            "TotalCashonHand": 3004.87,
-            "TotalContributions": 3525,
-            "TotalExpenditures": 520.13,
+            "TotalCashonHand": 2858.66,
+            "TotalContributions": 9590,
+            "TotalExpenditures": 6731.34,
             "incumbentFlag": true
         }
     },
@@ -3916,9 +3909,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5853,
-            "TotalCashonHand": 5575,
+            "TotalCashonHand": 1658.45,
             "TotalContributions": 6018.1,
-            "TotalExpenditures": 443.1,
+            "TotalExpenditures": 4359.65,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -3957,9 +3950,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5730,
-            "TotalCashonHand": 4464.89,
-            "TotalContributions": 6335,
-            "TotalExpenditures": 1870.11,
+            "TotalCashonHand": 2940.23,
+            "TotalContributions": 8225,
+            "TotalExpenditures": 5284.77,
             "incumbentFlag": true
         }
     },
@@ -3972,9 +3965,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6008,
-            "TotalCashonHand": 826.07,
-            "TotalContributions": 168.95,
-            "TotalExpenditures": 342.88,
+            "TotalCashonHand": 3060.67,
+            "TotalContributions": 1198.95,
+            "TotalExpenditures": 1138.28,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -3985,9 +3978,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5919,
-            "TotalCashonHand": 5456.2,
-            "TotalContributions": 5925,
-            "TotalExpenditures": 468.8,
+            "TotalCashonHand": 289.89,
+            "TotalContributions": 7200,
+            "TotalExpenditures": 6910.11,
             "incumbentFlag": true
         }
     },
@@ -4000,9 +3993,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6145,
-            "TotalCashonHand": null,
-            "TotalContributions": null,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 25.1,
+            "TotalContributions": 1150,
+            "TotalExpenditures": 1124.9,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -4013,9 +4006,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6014,
-            "TotalCashonHand": 366.21,
-            "TotalContributions": 2548.65,
-            "TotalExpenditures": 2182.44,
+            "TotalCashonHand": 1038.53,
+            "TotalContributions": 7623.65,
+            "TotalExpenditures": 6585.12,
             "incumbentFlag": false
         }
     },
@@ -4028,9 +4021,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5888,
-            "TotalCashonHand": 221.85,
-            "TotalContributions": 400,
-            "TotalExpenditures": 178.15,
+            "TotalCashonHand": -200,
+            "TotalContributions": 435,
+            "TotalExpenditures": 635,
             "incumbentFlag": true
         },
         "DEMOCRATIC": {
@@ -4041,9 +4034,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6174,
-            "TotalCashonHand": 761.7,
-            "TotalContributions": 2725,
-            "TotalExpenditures": 1963.3,
+            "TotalCashonHand": 662.46,
+            "TotalContributions": 4860,
+            "TotalExpenditures": 4197.54,
             "incumbentFlag": false
         }
     },
@@ -4056,9 +4049,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5982,
-            "TotalCashonHand": 45,
-            "TotalContributions": 45,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 802.65,
+            "TotalContributions": 1551,
+            "TotalExpenditures": 748.35,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -4069,9 +4062,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5882,
-            "TotalCashonHand": 640,
-            "TotalContributions": 640,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 166.84,
+            "TotalContributions": 3140,
+            "TotalExpenditures": 2973.16,
             "incumbentFlag": true
         }
     },
@@ -4097,9 +4090,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6168,
-            "TotalCashonHand": null,
-            "TotalContributions": null,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 146.8,
+            "TotalContributions": 4370,
+            "TotalExpenditures": 4223.2,
             "incumbentFlag": false
         }
     },
@@ -4112,9 +4105,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5932,
-            "TotalCashonHand": 3264.6,
-            "TotalContributions": 6093.35,
-            "TotalExpenditures": 2828.75,
+            "TotalCashonHand": 3122.22,
+            "TotalContributions": 7038.35,
+            "TotalExpenditures": 3916.13,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -4125,9 +4118,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5749,
-            "TotalCashonHand": 1098.68,
-            "TotalContributions": 1200,
-            "TotalExpenditures": 101.32,
+            "TotalCashonHand": 439.72,
+            "TotalContributions": 1850,
+            "TotalExpenditures": 1410.28,
             "incumbentFlag": true
         }
     },
@@ -4153,9 +4146,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5773,
-            "TotalCashonHand": 4593.29,
-            "TotalContributions": 4642.53,
-            "TotalExpenditures": 49.24,
+            "TotalCashonHand": 4383.13,
+            "TotalContributions": 6027.53,
+            "TotalExpenditures": 1644.4,
             "incumbentFlag": true
         }
     },
@@ -4168,9 +4161,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6055,
-            "TotalCashonHand": 6895,
-            "TotalContributions": 7895,
-            "TotalExpenditures": 1000,
+            "TotalCashonHand": 2333.5,
+            "TotalContributions": 11675,
+            "TotalExpenditures": 9341.5,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -4181,9 +4174,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5748,
-            "TotalCashonHand": 59.26,
-            "TotalContributions": 1400,
-            "TotalExpenditures": 1340.74,
+            "TotalCashonHand": 2582.7,
+            "TotalContributions": 11409.1,
+            "TotalExpenditures": 8826.4,
             "incumbentFlag": false
         }
     },
@@ -4196,9 +4189,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5890,
-            "TotalCashonHand": 6688,
-            "TotalContributions": 7193.65,
-            "TotalExpenditures": 505.65,
+            "TotalCashonHand": 683.95,
+            "TotalContributions": 13523.65,
+            "TotalExpenditures": 12839.7,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -4209,9 +4202,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6103,
-            "TotalCashonHand": null,
-            "TotalContributions": null,
-            "TotalExpenditures": 199.55,
+            "TotalCashonHand": 105.33,
+            "TotalContributions": 1115,
+            "TotalExpenditures": 1009.67,
             "incumbentFlag": false
         }
     },
@@ -4252,9 +4245,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5922,
-            "TotalCashonHand": 400,
-            "TotalContributions": 400,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 429.43,
+            "TotalContributions": 6025,
+            "TotalExpenditures": 5595.57,
             "incumbentFlag": true
         }
     },
@@ -4267,9 +4260,9 @@ house_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5896,
-            "TotalCashonHand": 177.01,
-            "TotalContributions": 2385,
-            "TotalExpenditures": 2207.99,
+            "TotalCashonHand": -65.19,
+            "TotalContributions": 4943.25,
+            "TotalExpenditures": 5008.44,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -4280,9 +4273,9 @@ house_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6175,
-            "TotalCashonHand": 6235,
-            "TotalContributions": 6235,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 6451.55,
+            "TotalContributions": 8125,
+            "TotalExpenditures": 1673.45,
             "incumbentFlag": true
         }
     }

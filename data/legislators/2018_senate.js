@@ -1,4 +1,4 @@
-var senators_2018 = {
+{
     "1": {
         "DEMOCRATIC": {
             "firstName": "Troy ",
@@ -8,9 +8,9 @@ var senators_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5856,
-            "TotalCashonHand": 31061.12,
-            "TotalContributions": 35893.49,
-            "TotalExpenditures": 4832.37,
+            "TotalCashonHand": 2109.92,
+            "TotalContributions": 65893.49,
+            "TotalExpenditures": 63783.57,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -21,9 +21,9 @@ var senators_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5813,
-            "TotalCashonHand": 21780.5,
-            "TotalContributions": 24506.81,
-            "TotalExpenditures": 2726.31,
+            "TotalCashonHand": 4000.25,
+            "TotalContributions": 33331.81,
+            "TotalExpenditures": 29331.56,
             "incumbentFlag": false
         }
     },
@@ -36,9 +36,9 @@ var senators_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5925,
-            "TotalCashonHand": 22300,
-            "TotalContributions": 22450,
-            "TotalExpenditures": 150,
+            "TotalCashonHand": 9218.07,
+            "TotalContributions": 27525,
+            "TotalExpenditures": 18306.93,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -64,9 +64,9 @@ var senators_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5667,
-            "TotalCashonHand": 20427.4,
-            "TotalContributions": 30271.96,
-            "TotalExpenditures": 9844.56,
+            "TotalCashonHand": 2415.16,
+            "TotalContributions": 44930.96,
+            "TotalExpenditures": 42515.8,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -77,9 +77,9 @@ var senators_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5931,
-            "TotalCashonHand": 23618.35,
-            "TotalContributions": 27775.29,
-            "TotalExpenditures": 4156.94,
+            "TotalCashonHand": 1587.73,
+            "TotalContributions": 35275.29,
+            "TotalExpenditures": 33687.56,
             "incumbentFlag": false
         }
     },
@@ -92,9 +92,9 @@ var senators_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5709,
-            "TotalCashonHand": 22425.6,
-            "TotalContributions": 30598.41,
-            "TotalExpenditures": 8172.81,
+            "TotalCashonHand": 9129.84,
+            "TotalContributions": 50673.41,
+            "TotalExpenditures": 41543.57,
             "incumbentFlag": true
         },
         "DEMOCRATIC": {
@@ -105,9 +105,9 @@ var senators_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6010,
-            "TotalCashonHand": 16979.14,
-            "TotalContributions": 28839.96,
-            "TotalExpenditures": 11860.82,
+            "TotalCashonHand": 3475.66,
+            "TotalContributions": 40089.96,
+            "TotalExpenditures": 36614.3,
             "incumbentFlag": false
         }
     },
@@ -120,9 +120,9 @@ var senators_2018 = {
             "party": "UNENROLLED",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5817,
-            "TotalCashonHand": 21263.09,
-            "TotalContributions": 24638.27,
-            "TotalExpenditures": 3375.18,
+            "TotalCashonHand": 4679.96,
+            "TotalContributions": 28388.27,
+            "TotalExpenditures": 23708.31,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -133,9 +133,9 @@ var senators_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5846,
-            "TotalCashonHand": 28369.77,
-            "TotalContributions": 32460,
-            "TotalExpenditures": 4090.23,
+            "TotalCashonHand": 14629.18,
+            "TotalContributions": 65110,
+            "TotalExpenditures": 50480.82,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -161,9 +161,9 @@ var senators_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5811,
-            "TotalCashonHand": 20087.19,
+            "TotalCashonHand": 1777.82,
             "TotalContributions": 23044.94,
-            "TotalExpenditures": 2957.75,
+            "TotalExpenditures": 21267.12,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -174,14 +174,13 @@ var senators_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6034,
-            "TotalCashonHand": 20005.75,
+            "TotalCashonHand": 15418.84,
             "TotalContributions": 22800.02,
-            "TotalExpenditures": 2794.27,
+            "TotalExpenditures": 7381.18,
             "incumbentFlag": false
         }
     },
     "7": {
-        
         "DEMOCRATIC": {
             "firstName": "Louis ",
             "lastName": "Luchini",
@@ -190,9 +189,9 @@ var senators_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5972,
-            "TotalCashonHand": 24392.98,
-            "TotalContributions": 34735.18,
-            "TotalExpenditures": 10342.2,
+            "TotalCashonHand": 25027.39,
+            "TotalContributions": 61210.18,
+            "TotalExpenditures": 36182.79,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -203,14 +202,13 @@ var senators_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6053,
-            "TotalCashonHand": 6162.82,
-            "TotalContributions": 9000,
-            "TotalExpenditures": 2837.18,
+            "TotalCashonHand": 1228.57,
+            "TotalContributions": 18170,
+            "TotalExpenditures": 16941.43,
             "incumbentFlag": false
         }
     },
     "8": {
-        
         "REPUBLICAN": {
             "firstName": "Kimberley C ",
             "lastName": "Rosen",
@@ -219,9 +217,9 @@ var senators_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5695,
-            "TotalCashonHand": 22666.22,
-            "TotalContributions": 25150,
-            "TotalExpenditures": 2483.78,
+            "TotalCashonHand": 6014.49,
+            "TotalContributions": 28900,
+            "TotalExpenditures": 22885.51,
             "incumbentFlag": true
         },
         "DEMOCRATIC": {
@@ -232,14 +230,13 @@ var senators_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5820,
-            "TotalCashonHand": 21974.35,
-            "TotalContributions": 26624.09,
-            "TotalExpenditures": 4649.74,
+            "TotalCashonHand": 2231.86,
+            "TotalContributions": 40524.09,
+            "TotalExpenditures": 38292.23,
             "incumbentFlag": false
         }
     },
     "9": {
-       
         "DEMOCRATIC": {
             "firstName": "Geoffrey M ",
             "lastName": "Gratwick",
@@ -248,9 +245,9 @@ var senators_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5791,
-            "TotalCashonHand": 26278.56,
-            "TotalContributions": 30600,
-            "TotalExpenditures": 4321.44,
+            "TotalCashonHand": 2482.21,
+            "TotalContributions": 45600,
+            "TotalExpenditures": 43117.79,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -261,14 +258,13 @@ var senators_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 298632,
-            "TotalCashonHand": null,
-            "TotalContributions": null,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 7393.3,
+            "TotalContributions": 21950.69,
+            "TotalExpenditures": 14557.39,
             "incumbentFlag": false
         }
     },
     "10": {
-        
         "REPUBLICAN": {
             "firstName": "Stacey K. ",
             "lastName": "Guerin",
@@ -277,9 +273,9 @@ var senators_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5955,
-            "TotalCashonHand": 19653.69,
-            "TotalContributions": 20898.32,
-            "TotalExpenditures": 1244.63,
+            "TotalCashonHand": 14541.27,
+            "TotalContributions": 31761.56,
+            "TotalExpenditures": 17220.29,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -290,9 +286,9 @@ var senators_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6037,
-            "TotalCashonHand": 24306.54,
-            "TotalContributions": 28435.49,
-            "TotalExpenditures": 4128.95,
+            "TotalCashonHand": 117.45,
+            "TotalContributions": 39689.11,
+            "TotalExpenditures": 39571.66,
             "incumbentFlag": false
         }
     },
@@ -305,12 +301,11 @@ var senators_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5829,
-            "TotalCashonHand": 22930.49,
-            "TotalContributions": 29263.81,
-            "TotalExpenditures": 6333.32,
+            "TotalCashonHand": 5340.34,
+            "TotalContributions": 55738.81,
+            "TotalExpenditures": 50398.47,
             "incumbentFlag": false
         },
-       
         "DEMOCRATIC": {
             "firstName": "Erin D ",
             "lastName": "Herbig",
@@ -319,9 +314,9 @@ var senators_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5792,
-            "TotalCashonHand": 27636.75,
-            "TotalContributions": 43809,
-            "TotalExpenditures": 16172.25,
+            "TotalCashonHand": 536.85,
+            "TotalContributions": 73809,
+            "TotalExpenditures": 73272.15,
             "incumbentFlag": false
         }
     },
@@ -334,9 +329,9 @@ var senators_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5867,
-            "TotalCashonHand": 28877.52,
-            "TotalContributions": 30000,
-            "TotalExpenditures": 1122.48,
+            "TotalCashonHand": 14491.09,
+            "TotalContributions": 48750,
+            "TotalExpenditures": 34258.91,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -347,13 +342,13 @@ var senators_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6052,
-            "TotalCashonHand": null,
-            "TotalContributions": null,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 2.99,
+            "TotalContributions": 310,
+            "TotalExpenditures": 307.01,
             "incumbentFlag": false
         }
     },
-    "13" : {
+    "13": {
         "REPUBLICAN": {
             "firstName": "Dana L ",
             "lastName": "Dow",
@@ -362,9 +357,9 @@ var senators_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5674,
-            "TotalCashonHand": 23625,
-            "TotalContributions": 24145.7,
-            "TotalExpenditures": 520.7,
+            "TotalCashonHand": 619.25,
+            "TotalContributions": 32970.7,
+            "TotalExpenditures": 32351.45,
             "incumbentFlag": true
         },
         "DEMOCRATIC": {
@@ -375,9 +370,9 @@ var senators_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5776,
-            "TotalCashonHand": 29750.16,
-            "TotalContributions": 35883.01,
-            "TotalExpenditures": 6132.85,
+            "TotalCashonHand": 1214.74,
+            "TotalContributions": 65883.01,
+            "TotalExpenditures": 64668.27,
             "incumbentFlag": false
         }
     },
@@ -390,9 +385,9 @@ var senators_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5849,
-            "TotalCashonHand": 32001.81,
-            "TotalContributions": 35893.12,
-            "TotalExpenditures": 3891.31,
+            "TotalCashonHand": 1886.87,
+            "TotalContributions": 65893.12,
+            "TotalExpenditures": 64006.25,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -403,14 +398,13 @@ var senators_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6051,
-            "TotalCashonHand": 18405.17,
-            "TotalContributions": 22570.35,
-            "TotalExpenditures": 4165.18,
+            "TotalCashonHand": 2775.27,
+            "TotalContributions": 32720.35,
+            "TotalExpenditures": 29945.08,
             "incumbentFlag": false
         }
     },
     "15": {
-        
         "DEMOCRATIC": {
             "firstName": "Kellie M. ",
             "lastName": "Julia",
@@ -419,9 +413,9 @@ var senators_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6106,
-            "TotalCashonHand": 21520.55,
-            "TotalContributions": 32211.85,
-            "TotalExpenditures": 10691.3,
+            "TotalCashonHand": -770.91,
+            "TotalContributions": 35961.85,
+            "TotalExpenditures": 36732.76,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -432,9 +426,9 @@ var senators_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5703,
-            "TotalCashonHand": 21735.64,
-            "TotalContributions": 33396.12,
-            "TotalExpenditures": 11660.48,
+            "TotalCashonHand": -1230,
+            "TotalContributions": 43596.12,
+            "TotalExpenditures": 44826.12,
             "incumbentFlag": false
         }
     },
@@ -447,9 +441,9 @@ var senators_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5697,
-            "TotalCashonHand": 20708.13,
-            "TotalContributions": 22797.4,
-            "TotalExpenditures": 2089.27,
+            "TotalCashonHand": 261.48,
+            "TotalContributions": 27872.4,
+            "TotalExpenditures": 27610.92,
             "incumbentFlag": true
         },
         "DEMOCRATIC": {
@@ -460,9 +454,9 @@ var senators_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5840,
-            "TotalCashonHand": 24121.18,
-            "TotalContributions": 37374.19,
-            "TotalExpenditures": 13253.01,
+            "TotalCashonHand": 380.66,
+            "TotalContributions": 53699.19,
+            "TotalExpenditures": 53318.53,
             "incumbentFlag": false
         }
     },
@@ -475,9 +469,9 @@ var senators_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5666,
-            "TotalCashonHand": 25759.66,
-            "TotalContributions": 29254.28,
-            "TotalExpenditures": 3494.62,
+            "TotalCashonHand": 4990.59,
+            "TotalContributions": 50654.28,
+            "TotalExpenditures": 45663.69,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -488,9 +482,9 @@ var senators_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5916,
-            "TotalCashonHand": 24966.67,
-            "TotalContributions": 36514.43,
-            "TotalExpenditures": 11547.76,
+            "TotalCashonHand": 20997.24,
+            "TotalContributions": 76889.43,
+            "TotalExpenditures": 55892.19,
             "incumbentFlag": false
         }
     },
@@ -503,9 +497,9 @@ var senators_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5699,
-            "TotalCashonHand": 21052.31,
-            "TotalContributions": 25725,
-            "TotalExpenditures": 4672.69,
+            "TotalCashonHand": 11205.23,
+            "TotalContributions": 39625,
+            "TotalExpenditures": 28419.77,
             "incumbentFlag": true
         },
         "DEMOCRATIC": {
@@ -516,9 +510,9 @@ var senators_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5996,
-            "TotalCashonHand": 24810.11,
-            "TotalContributions": 27947.03,
-            "TotalExpenditures": 3136.92,
+            "TotalCashonHand": 7176.54,
+            "TotalContributions": 40522.03,
+            "TotalExpenditures": 33345.49,
             "incumbentFlag": false
         }
     },
@@ -531,9 +525,9 @@ var senators_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5696,
-            "TotalCashonHand": 23614,
-            "TotalContributions": 24509.61,
-            "TotalExpenditures": 895.61,
+            "TotalCashonHand": 26915.64,
+            "TotalContributions": 28259.61,
+            "TotalExpenditures": 1343.97,
             "incumbentFlag": true
         },
         "DEMOCRATIC": {
@@ -544,14 +538,13 @@ var senators_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5975,
-            "TotalCashonHand": 25,
-            "TotalContributions": 25,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 423.7,
+            "TotalContributions": 540.42,
+            "TotalExpenditures": 116.72,
             "incumbentFlag": false
         }
     },
     "20": {
-        
         "DEMOCRATIC": {
             "firstName": "Ned ",
             "lastName": "Claxton",
@@ -560,9 +553,9 @@ var senators_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5794,
-            "TotalCashonHand": 31594.07,
-            "TotalContributions": 35899.96,
-            "TotalExpenditures": 4305.89,
+            "TotalCashonHand": 690.4,
+            "TotalContributions": 65899.96,
+            "TotalExpenditures": 65209.56,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -573,9 +566,9 @@ var senators_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5682,
-            "TotalCashonHand": 8137.01,
-            "TotalContributions": 13082.53,
-            "TotalExpenditures": 4945.52,
+            "TotalCashonHand": 2695.34,
+            "TotalContributions": 32223.42,
+            "TotalExpenditures": 29528.08,
             "incumbentFlag": false
         }
     },
@@ -588,9 +581,9 @@ var senators_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5832,
-            "TotalCashonHand": 7178.72,
-            "TotalContributions": 10176.44,
-            "TotalExpenditures": 3247.72,
+            "TotalCashonHand": 467.77,
+            "TotalContributions": 18651.44,
+            "TotalExpenditures": 18433.67,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -601,9 +594,9 @@ var senators_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5984,
-            "TotalCashonHand": 21485.97,
+            "TotalCashonHand": 5783.67,
             "TotalContributions": 22596.52,
-            "TotalExpenditures": 1110.55,
+            "TotalExpenditures": 16812.85,
             "incumbentFlag": false
         }
     },
@@ -616,9 +609,9 @@ var senators_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6012,
-            "TotalCashonHand": 21108.25,
+            "TotalCashonHand": 5167.49,
             "TotalContributions": 23724.16,
-            "TotalExpenditures": 2615.91,
+            "TotalExpenditures": 18556.67,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -629,14 +622,13 @@ var senators_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5665,
-            "TotalCashonHand": 19560.66,
-            "TotalContributions": 31179.09,
-            "TotalExpenditures": 11618.43,
+            "TotalCashonHand": 1142.89,
+            "TotalContributions": 37904.09,
+            "TotalExpenditures": 46761.2,
             "incumbentFlag": false
         }
     },
     "23": {
-       
         "DEMOCRATIC": {
             "firstName": "Eloise A. ",
             "lastName": "Vitelli",
@@ -645,9 +637,9 @@ var senators_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5826,
-            "TotalCashonHand": 29405.97,
-            "TotalContributions": 34573.46,
-            "TotalExpenditures": 5167.49,
+            "TotalCashonHand": 7998.05,
+            "TotalContributions": 65898.46,
+            "TotalExpenditures": 57900.41,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -673,9 +665,9 @@ var senators_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5786,
-            "TotalCashonHand": 29880.41,
-            "TotalContributions": 33165.64,
-            "TotalExpenditures": 3285.23,
+            "TotalCashonHand": 33524.03,
+            "TotalContributions": 55665.64,
+            "TotalExpenditures": 22141.61,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -686,9 +678,9 @@ var senators_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6096,
-            "TotalCashonHand": null,
-            "TotalContributions": null,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 0,
+            "TotalContributions": 102.47,
+            "TotalExpenditures": 102.47,
             "incumbentFlag": false
         }
     },
@@ -701,12 +693,11 @@ var senators_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5877,
-            "TotalCashonHand": 25210.3,
-            "TotalContributions": 30591.57,
-            "TotalExpenditures": 5381.27,
+            "TotalCashonHand": 8878.45,
+            "TotalContributions": 45591.57,
+            "TotalExpenditures": 36713.12,
             "incumbentFlag": true
         },
-       
         "REPUBLICAN": {
             "firstName": "David Gilman ",
             "lastName": "Savage",
@@ -730,9 +721,9 @@ var senators_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5871,
-            "TotalCashonHand": 5067.31,
-            "TotalContributions": 5067.31,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 3509.53,
+            "TotalContributions": 5967.31,
+            "TotalExpenditures": 2457.78,
             "incumbentFlag": true
         }
     },
@@ -745,9 +736,9 @@ var senators_2018 = {
             "party": "UNENROLLED",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6029,
-            "TotalCashonHand": 22837.21,
-            "TotalContributions": 27693.65,
-            "TotalExpenditures": 4856.44,
+            "TotalCashonHand": 5316.23,
+            "TotalContributions": 55493.65,
+            "TotalExpenditures": 50177.42,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -758,9 +749,9 @@ var senators_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5821,
-            "TotalCashonHand": 31952.04,
-            "TotalContributions": 35900,
-            "TotalExpenditures": 3947.96,
+            "TotalCashonHand": 10866.46,
+            "TotalContributions": 65900,
+            "TotalExpenditures": 55033.54,
             "incumbentFlag": true
         }
     },
@@ -773,9 +764,9 @@ var senators_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5733,
-            "TotalCashonHand": 4652.73,
-            "TotalContributions": 29070.2,
-            "TotalExpenditures": 24417.47,
+            "TotalCashonHand": -389.07,
+            "TotalContributions": 29895.2,
+            "TotalExpenditures": 30284.27,
             "incumbentFlag": false
         }
     },
@@ -788,9 +779,9 @@ var senators_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5801,
-            "TotalCashonHand": 21659.27,
-            "TotalContributions": 26625,
-            "TotalExpenditures": 4965.73,
+            "TotalCashonHand": 1424.34,
+            "TotalContributions": 30375,
+            "TotalExpenditures": 28950.66,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -801,9 +792,9 @@ var senators_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 6113,
-            "TotalCashonHand": 2071,
+            "TotalCashonHand": 589.11,
             "TotalContributions": 2100,
-            "TotalExpenditures": 29,
+            "TotalExpenditures": 1510.89,
             "incumbentFlag": false
         }
     },
@@ -816,9 +807,9 @@ var senators_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5827,
-            "TotalCashonHand": 31100.67,
-            "TotalContributions": 35899.09,
-            "TotalExpenditures": 4798.42,
+            "TotalCashonHand": 2818.86,
+            "TotalContributions": 65899.09,
+            "TotalExpenditures": 63080.23,
             "incumbentFlag": false
         },
         "REPUBLICAN": {
@@ -829,9 +820,9 @@ var senators_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5956,
-            "TotalCashonHand": 26872.81,
-            "TotalContributions": 28854.09,
-            "TotalExpenditures": 1981.28,
+            "TotalCashonHand": 14737.02,
+            "TotalContributions": 43514.09,
+            "TotalExpenditures": 28777.07,
             "incumbentFlag": true
         }
     },
@@ -844,9 +835,9 @@ var senators_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5858,
-            "TotalCashonHand": 22950.29,
-            "TotalContributions": 32078.27,
-            "TotalExpenditures": 9127.98,
+            "TotalCashonHand": 883.15,
+            "TotalContributions": 54578.27,
+            "TotalExpenditures": 53695.12,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -857,9 +848,9 @@ var senators_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 286838,
-            "TotalCashonHand": null,
-            "TotalContributions": null,
-            "TotalExpenditures": null,
+            "TotalCashonHand": 8503.46,
+            "TotalContributions": 26900,
+            "TotalExpenditures": 18396.54,
             "incumbentFlag": false
         }
     },
@@ -872,9 +863,9 @@ var senators_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5933,
-            "TotalCashonHand": 24950,
-            "TotalContributions": 26342.39,
-            "TotalExpenditures": 1392.39,
+            "TotalCashonHand": 1937.61,
+            "TotalContributions": 38917.39,
+            "TotalExpenditures": 36979.78,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -885,9 +876,9 @@ var senators_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5899,
-            "TotalCashonHand": 16081.14,
+            "TotalCashonHand": 4031.48,
             "TotalContributions": 24976.05,
-            "TotalExpenditures": 8894.91,
+            "TotalExpenditures": 20944.57,
             "incumbentFlag": false
         }
     },
@@ -900,9 +891,9 @@ var senators_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6090,
-            "TotalCashonHand": 19275.1,
-            "TotalContributions": 24910,
-            "TotalExpenditures": 5634.9,
+            "TotalCashonHand": 5345.86,
+            "TotalContributions": 28660,
+            "TotalExpenditures": 23314.14,
             "incumbentFlag": true
         },
         "REPUBLICAN": {
@@ -913,9 +904,9 @@ var senators_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5698,
-            "TotalCashonHand": 416.5,
-            "TotalContributions": 420,
-            "TotalExpenditures": 3.5,
+            "TotalCashonHand": 10169.36,
+            "TotalContributions": 11765,
+            "TotalExpenditures": 1595.64,
             "incumbentFlag": true
         }
     },
@@ -928,9 +919,9 @@ var senators_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
             "IDNumber": 5694,
-            "TotalCashonHand": 20655.3,
-            "TotalContributions": 26579.65,
-            "TotalExpenditures": 5924.35,
+            "TotalCashonHand": 3457.31,
+            "TotalContributions": 52785.65,
+            "TotalExpenditures": 49328.34,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -941,9 +932,9 @@ var senators_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5995,
-            "TotalCashonHand": 21081.23,
-            "TotalContributions": 24325,
-            "TotalExpenditures": 3243.77,
+            "TotalCashonHand": 127.81,
+            "TotalContributions": 33150,
+            "TotalExpenditures": 33022.19,
             "incumbentFlag": false
         }
     },
@@ -956,9 +947,9 @@ var senators_2018 = {
             "party": "REPUBLICAN",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 6114,
-            "TotalCashonHand": 22925.14,
-            "TotalContributions": 27950,
-            "TotalExpenditures": 5024.86,
+            "TotalCashonHand": 456.85,
+            "TotalContributions": 40525,
+            "TotalExpenditures": 40068.15,
             "incumbentFlag": false
         },
         "DEMOCRATIC": {
@@ -969,9 +960,9 @@ var senators_2018 = {
             "party": "DEMOCRATIC",
             "FinanceType": "Maine Clean Election Act Financed",
             "IDNumber": 5798,
-            "TotalCashonHand": 25138.55,
-            "TotalContributions": 28745,
-            "TotalExpenditures": 3606.45,
+            "TotalCashonHand": 18128.9,
+            "TotalContributions": 73970,
+            "TotalExpenditures": 55841.1,
             "incumbentFlag": false
         }
     }
