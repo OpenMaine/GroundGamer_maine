@@ -1,0 +1,105 @@
+/* Always set the map height explicitly to define the size of the div
+ * element that contains the map. */
+#map {
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	z-index: 1;
+}
+
+
+#contentFrame {
+	padding: 15px;
+	height: 500px;
+	width: 300px;
+	background: white;
+	position: absolute;
+	z-index: 5;
+	margin: 50px;
+	box-shadow: 0 4px 5px 0 rgba(0,0,0,0.14),0 1px 10px 0 rgba(0,0,0,0.12),0 2px 4px -1px rgba(0,0,0,0.2);
+	font-size: 14px;
+}
+
+#house_toggle {
+	
+}
+
+a.button {
+	display: block;
+	float: left;
+	border: solid 1px #ccc;
+	border-radius: 15px;
+	height: 30px;
+	line-height: 30px;
+	margin-right: 10px;
+	padding: 0 20px;
+	cursor: pointer
+}
+a.button.active {
+	color: white;
+	background: black;
+}
+
+
+#contentFrame img {
+	max-width: 60%;
+	max-height: 180px;
+	margin-top: 7px;
+}
+
+/* Optional: Makes the sample page fill the window. */
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+.swatch {
+	/*border: solid 1px #ccc;
+	height: 15px; width: 15px;
+	margin-right: 10px;
+	float: left;
+	cursor: pointer;*/
+}
+
+#selected_swatch {
+	height: 15px;
+	margin: 40px;
+}
+
+
+.search_frame {  }
+.search_frame #address_frame 	{ margin: 45px 0; }
+.search_frame label 			{ font-size: 11px; font-weight: bold }
+.search_frame input 			{ height: 40px; border: solid 1px #ccc; padding: 0 10px; line-height: 40px; font-size: 12px; width: 100%; display: block; }
+.search_frame .button 			{ margin-top: 6px; }
+.search_frame .message 			{ clear: both; padding-top: 8px; }
+				
+
+.leg_card_frame 		{ height: 350px; overflow: auto; border: solid 1px #ccc; }
+.leg_card				{ clear: both; border-bottom: dotted 1px #ccc; padding: 8px 0; cursor: pointer;}
+.leg_card:hover 		{ background: #337ab7; color: white; }
+.leg_card .mug_shot		{ height: 60px; width: 60px; float: left;background-size: 40px; background-position: center; background-repeat: no-repeat;}
+.leg_card .name			{ font-weight: bold; font-size: 14px; }
+.leg_card .district		{ font-style: italic; font-size: 12px; }
+
+#address_frame 			{ padding: 15px 0; }
+
+
+.feature_frame						{ padding: 15px 0; }
+.feature_frame .districtTitle		{ font-size: 22px; color: black; font-weight: bold }
+.feature_frame .districtTowns		{ font-size: 12px; font-style: italic; }
+.feature_frame .party_header		{ background: black; color: white; line-height: 26px; font-size: 12px; padding: 0 7px; letter-spacing: .1em; margin: 20px 0 5px; }
+.feature_frame .party_header.R		{ background: #990000; }
+.feature_frame .party_header.D		{ background: #000099; }
+.feature_frame .party_header.G		{ background: #009900; }
+.feature_frame .party_header.U		{  }
+
+.feature_frame .leg_card 			{ border-bottom: none }
+.feature_frame .leg_card:hover		{ background: white; color: black; cursor: default; }
+.feature_frame .contact_details		{ float: left; font-size: 12px; width: 180px; }
+
+.feature_frame .expenditures 		{ color: red; }
+.feature_frame .contributions 		{ color: green; }
+
+
