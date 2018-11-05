@@ -68,7 +68,10 @@ $.each(senators_2018, function(dnum, this_year){
 			d.legislator.incumbent_info = candidate;
 			delete d.this_year[party];
 		}
+
 	})
+
+
 })
 
 $.each(house_2018, function(dnum, this_year){
@@ -85,7 +88,20 @@ $.each(house_2018, function(dnum, this_year){
 			delete d.this_year[party];
 		}
 	})
+
+
+	// check for redundancy
+	
+	// if(!d.legislator.is_incumbent) {
+	// 	console.log(d.legislator.name.fullName);
+	// 	$.each(this_year, function(party, candidate){
+	// 		console.log('-' + candidate.firstName + ' ' + candidate.lastName);
+	// 	})
+	// 	console.log("\n");
+
+	// }
 })
+
 
 
 
@@ -136,6 +152,7 @@ function toggleBody(body){
 			dnum = findDistrict(gg.selected.here.google);
 			loadDistrict(dnum);
 		}
+		else toggleUI('list');
 		
 	}
 
@@ -151,6 +168,8 @@ function toggleBody(body){
 				dnum = findDistrict(gg.selected.here.google);
 				loadDistrict(dnum);
 			}
+			else toggleUI('list');
+
 		});		
 	}
 }
@@ -280,18 +299,19 @@ function loadDistrict(dnum){
 
 	var title = (legislator.is_incumbent) ? 'INCUMBENT - ' + legislator.term_limited : 'SITTING - ' + legislator.term_limited;
 
-	console.log(legislator)
-
 	var money_line = (legislator.is_incumbent) ? _getMoneyLine(legislator.incumbent_info) : '';
 
 	var mpa_link = (gg.active_body == 'Senate') ? 'sldu-' + dnum : 'sldl-' + dnum;
 
 	var town_line = legislator.towns; //(gg.active_body == 'Senate') ? legislator.legal_residence : legislator.towns;
 
+	var img_url = 'assets/legislator-photos/' + legislator.photo_url;
+	var img_url = legislator.img2;
 
-	if(town_line.length > 200) {
-		var str1 = town_line.substr(0, 200);
-		var str2 = town_line.substr(200);
+
+	if(town_line.length > 120) {
+		var str1 = town_line.substr(0, 120);
+		var str2 = town_line.substr(120);
 		town_line = str1 + '<a style="color: #337ab7; cursor:pointer; font-weight: bold" id="elipses" ' + 
 								'onclick="$(\'#extra_towns\').show(); $(\'#elipses\').hide(); ">...</a>' + 
 					'<span id="extra_towns" style="display: none">' + str2 + '</span>';
@@ -303,7 +323,7 @@ function loadDistrict(dnum){
 
 					'<div class="leg_card clearfix">' +
 						'<div class="party_header ' + legislator.party[0] + '">' + title + '</div>' + 
-						'<div class="mug_shot" style="background-image: url(\'assets/legislator-photos/' + legislator.photo_url + '\');"></div>' +
+						'<div class="mug_shot" style="background-image: url(\'' + img_url + '\');"></div>' +
 						'<div class="contact_details">' + 
 							'<div class="name">' + legislator.name.fullName + '</div>' +
 							//legislator.phone + 
@@ -312,17 +332,17 @@ function loadDistrict(dnum){
 							money_line +
 							'MPA: <a class="mpa_link" href="http://mpascorecard.org/legislators/' + mpa_link + '" target="_blank">' + 
 								legislator.mpaScore + 
+							'%</a><br />' +
+							'Maine AFL-CIO: <a class="mpa_link" href=" http://maineaflcio.openscorecard.org/legislators/' + mpa_link + 
+												'" target="_blank">' + 
+								legislator.aflscore +
 							'%</a>' +
 							'<br /><a href="' + legislator.url + '" target="_blank">More Info</a>' +
 						'</div>' +
 					'</div>';
-
-	console.log(district);
             
 
 	$.each(district.this_year, function(party, candidate){
-
-		console.log(candidate);
 
 		html += '<div class="challenger leg_card">' + 
 					'<div class="party_header ' + party[0] + '">' + party + '</div>' + 
@@ -369,11 +389,9 @@ function _getMoneyLine(candidate){
 
 
 	var committee_name = candidate.lastName + ', ' + candidate.firstName + ' - (2018)';
-	console.log(committee_name);
-
+	
 	var committee_slug = encodeURIComponent(committee_name);
-	console.log(committee_slug);
-
+	
 	var table_page = 'table.php?'
 
 
@@ -505,7 +523,6 @@ function showList(){
 	$('#output').html(html);
 
 	if(gg.display_candidates) {
-		console.log('trying to check box');
 		$('#show_candidates_toggle').prop('checked', true);
 	}
 }
@@ -523,6 +540,7 @@ function filterList(){
 		if(l.name.firstName.toUpperCase().indexOf(search_term.toUpperCase()) == 0) row.show();
 		if(l.towns.toUpperCase().indexOf(search_term.toUpperCase()) != -1) row.show();
 		if(l.legal_residence.toUpperCase().indexOf(search_term.toUpperCase()) != -1) row.show();
+		if(l.districtNum.toString().indexOf(search_term) != -1) row.show();
 
 		if(gg.display_candidates){
 			for(party in district.this_year){

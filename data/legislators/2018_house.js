@@ -429,7 +429,7 @@
             "TotalCashonHand": 2704.02,
             "TotalContributions": 6035.92,
             "TotalExpenditures": 3331.9,
-            "incumbentFlag": false
+            "incumbentFlag": true
         }
     },
     "16": {
@@ -1872,7 +1872,7 @@
             "TotalCashonHand": 2058.85,
             "TotalContributions": 4417.79,
             "TotalExpenditures": 2358.94,
-            "incumbentFlag": false
+            "incumbentFlag": true
         },
         "COMMON SENSE": {
             "firstName": "Anne B ",
@@ -1969,7 +1969,7 @@
             "TotalCashonHand": 863.96,
             "TotalContributions": 12545,
             "TotalExpenditures": 11681.04,
-            "incumbentFlag": false
+            "incumbentFlag": true
         }
     },
     "71": {
@@ -2501,7 +2501,7 @@
             "TotalCashonHand": 1019.7,
             "TotalContributions": 7905.23,
             "TotalExpenditures": 6885.53,
-            "incumbentFlag": false
+            "incumbentFlag": true
         },
         "DEMOCRATIC": {
             "firstName": "Holly B. ",
@@ -2863,7 +2863,7 @@
             "TotalCashonHand": 4655.74,
             "TotalContributions": 8453.16,
             "TotalExpenditures": 3797.42,
-            "incumbentFlag": false
+            "incumbentFlag": true
         }
     },
     "102": {
@@ -3255,7 +3255,7 @@
             "TotalCashonHand": 1606.41,
             "TotalContributions": 7822.94,
             "TotalExpenditures": 6216.53,
-            "incumbentFlag": false
+            "incumbentFlag": true
         }
     },
     "116": {
@@ -3298,7 +3298,7 @@
             "TotalCashonHand": 1775.01,
             "TotalContributions": 5340,
             "TotalExpenditures": 3564.99,
-            "incumbentFlag": false
+            "incumbentFlag": true
         },
         "DEMOCRATIC": {
             "firstName": "Stephanie",
@@ -3326,7 +3326,7 @@
             "TotalCashonHand": 23.48,
             "TotalContributions": 1329.27,
             "TotalExpenditures": 2565.79,
-            "incumbentFlag": false
+            "incumbentFlag": true
         },
         "DEMOCRATIC": {
             "firstName": "John L. ",
@@ -3673,7 +3673,7 @@
             "TotalCashonHand": 1894.38,
             "TotalContributions": 4820,
             "TotalExpenditures": 2925.62,
-            "incumbentFlag": false
+            "incumbentFlag": true
         },
         "DEMOCRATIC": {
             "firstName": "Tammy ",
@@ -4202,7 +4202,7 @@
             "TotalCashonHand": 2582.7,
             "TotalContributions": 11409.1,
             "TotalExpenditures": 8826.4,
-            "incumbentFlag": false
+            "incumbentFlag": true
         }
     },
     "148": {

@@ -1,6 +1,67 @@
 <?php
 
-	$legislators = json_decode(file_get_contents('legislators.json'));
+	$legislators = json_decode(file_get_contents('legislators.js'));
+	
+// 	$afl_legislators_raw = json_decode(file_get_contents('afl_legislators.js'));
+// 	foreach($afl_legislators_raw as $l){
+// 		$afl_legislators[$l -> ocdId] = $l;
+// 	}
+
+// 	foreach($legislators as $k => $l){
+// 		unset($legislators[$k] -> votes);
+
+// 		$legislators[$k] -> legiscan_data = $afl_legislators[$l -> ocdId] -> legiscan_data;
+
+// 		$legislators[$k] -> aflscore = $afl_legislators[$l -> ocdId] -> aflscore;
+ 
+// 	}
+
+	
+// 	echo json_encode($legislators, JSON_PRETTY_PRINT);
+
+
+// exit();
+
+	// SCRAPE NEW SITE: http://legislature.maine.gov/house/house/MemberProfiles/ListAlpha
+
+	// $txt = file_get_contents('new_site.txt');
+	// $new_legislators_raw = explode('<td>', $txt);
+
+	// foreach($new_legislators_raw as $n){
+	// 	$new_legislators[] = array(
+	// 		"img" => 'http://legislature.maine.gov' . explode('"', explode('src="', $n)[1])[0],
+	// 		"link" => 'http://legislature.maine.gov' . explode('"', explode('href="', $n)[1])[0],
+	// 		"name" => strip_tags(explode('<br />', $n)[1])
+	// 	);
+
+	// }
+	// echo json_encode($new_legislators, JSON_PRETTY_PRINT);
+
+
+	function sortByName($a, $b){
+		return($a -> name -> lastName > $b -> name -> lastName );
+	}
+
+	usort($legislators, 'sortByName');
+	foreach($legislators as $l) {
+		if($l -> legislative_chamber == 'House') $house[] = $l;
+		else $senate[] = $l;
+	}
+
+
+	$new_site = json_decode(file_get_contents('new_site.js'));
+
+	foreach($new_site as $k => $l){
+		//echo $house[$k] -> name -> firstName . ' ' . $house[$k] -> name -> lastName . ' - ' . $l -> name;
+		$house[$k] -> url = $l -> link;
+		$house[$k] -> img2 = $l -> img;
+	}
+
+	$legislators = array_merge($house, $senate);
+	echo json_encode($legislators, JSON_PRETTY_PRINT);
+
+	exit();
+
 
 
 	function validateJson(){
