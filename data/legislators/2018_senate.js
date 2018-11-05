@@ -42,18 +42,22 @@
             "incumbentFlag": true
         },
         "REPUBLICAN": {
-            "firstName": "Christian ",
-            "lastName": "Putnam",
+            "firstName": "Karen",
+            "lastName" : "Reynolds",
+
             "district": "2",
             "office": "SENATOR",
             "party": "REPUBLICAN",
-            "FinanceType": "Traditionally Financed",
-            "IDNumber": 6121,
-            "TotalCashonHand": null,
-            "TotalContributions": null,
-            "TotalExpenditures": null,
-            "incumbentFlag": false
-        }
+            
+            "FinanceType": "Maine Clean Election Act Financed",
+            "IDNumber": 286623,
+            
+            "incumbentFlag": false,
+            
+            "TotalCashonHand": 1410.93,
+            "TotalContributions": 33393.2,
+            "TotalExpenditures": 31982.27
+        },
     },
     "3": {
         "REPUBLICAN": {
@@ -138,19 +142,22 @@
             "TotalExpenditures": 50480.82,
             "incumbentFlag": true
         },
-        "REPUBLICAN": {
-            "firstName": "Keith H. ",
-            "lastName": "Kneeland",
+        "REPUBLICAN":  {
+            "firstName": "Debbi Jean",
+            "lastName": "Perkins",
+
             "district": "5",
             "office": "SENATOR",
             "party": "REPUBLICAN",
+
             "FinanceType": "Traditionally Financed",
-            "IDNumber": 6097,
-            "TotalCashonHand": null,
-            "TotalContributions": null,
-            "TotalExpenditures": null,
-            "incumbentFlag": false
-        }
+            "IDNumber": 298778,
+
+            "incumbentFlag": false,
+            "TotalContributions": 1285,
+            "TotalExpenditures": 1354.7,
+            "TotalCashonHand": -69.7
+        },
     },
     "6": {
         "REPUBLICAN": {
@@ -643,17 +650,20 @@
             "incumbentFlag": true
         },
         "REPUBLICAN": {
-            "firstName": "Susan H. ",
-            "lastName": "Wasserott",
+            "firstName": "Richard",
+            "lastName": "Donaldson",
+
             "district": "23",
             "office": "SENATOR",
             "party": "REPUBLICAN",
-            "FinanceType": "Traditionally Financed",
-            "IDNumber": 6199,
-            "TotalCashonHand": null,
-            "TotalContributions": null,
-            "TotalExpenditures": null,
-            "incumbentFlag": false
+            
+            "FinanceType": "Maine Clean Election Act Financed",
+            "IDNumber": 285715,
+            
+            "incumbentFlag": false,
+            "TotalContributions": 33365.64,
+            "TotalExpenditures": 29042.32,
+            "TotalCashonHand": 4323.32
         }
     },
     "24": {
@@ -699,17 +709,21 @@
             "incumbentFlag": true
         },
         "REPUBLICAN": {
-            "firstName": "David Gilman ",
-            "lastName": "Savage",
+            "firstName": "Cathleen",
+            "lastName": "Nichols",
+
             "district": "25",
             "office": "SENATOR",
             "party": "REPUBLICAN",
+
             "FinanceType": "Traditionally Financed",
-            "IDNumber": 6112,
-            "TotalCashonHand": null,
-            "TotalContributions": null,
-            "TotalExpenditures": null,
-            "incumbentFlag": true
+            "IDNumber": 292866,
+            
+            "incumbentFlag": false,
+            "TotalContributions": 16991.52,
+            "TotalExpenditures": 11622.79,
+            "TotalCashonHand": 5368.73
+
         }
     },
     "26": {

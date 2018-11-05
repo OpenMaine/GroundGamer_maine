@@ -43,17 +43,18 @@
 
 	// GET NEW HOUSE
 
-	// $url = 'https://mainecampaignfinance.com/api///Organization/GetCandidateComparision?officeId=11&year=2018&districtId=&electionId=32&jurisdictionId=&pageSize=2147483647';
+	$url = 'https://mainecampaignfinance.com/api///Organization/GetCandidateComparision?officeId=11&year=2018&districtId=&electionId=32&jurisdictionId=&pageSize=2147483647';
 
-	// $legislators = json_decode(file_get_contents($url));
-
-
+	$legislators = json_decode(file_get_contents($url));
+	
 
 	// GET NEW SENATE
 
 	// $url = 'https://mainecampaignfinance.com/api///Organization/GetCandidateComparision?officeId=12&year=2018&districtId=&electionId=32&jurisdictionId=&pageSize=2147483647';
 
 	// $legislators = json_decode(file_get_contents($url));
+	echo json_encode($legislators, JSON_PRETTY_PRINT);
+	exit();
 
 
 

@@ -23,6 +23,8 @@ districtDictionary = {
 gg = {
 
 	"active_body" : "House",
+
+	"display_candidates" : false,
 	
 	"selected" : {
 		"dnum" : 0,
@@ -58,7 +60,9 @@ $.each(senators_2018, function(dnum, this_year){
 	var d = districtDictionary['Senate'][dnum];
 	d.this_year = this_year;
 	$.each(this_year, function(party, candidate){
-		candidate.fin_summary_link = 'https://mainecampaignfinance.com/#/exploreDetails/' + candidate.IDNumber + '/12/' + candidate.district + '/32/2018';
+		candidate.fin_summary_link = 
+			'https://mainecampaignfinance.com/#/exploreDetails/' + candidate.IDNumber + '/12/' + candidate.district + '/32/2018';
+
 		if(candidate.incumbentFlag) {
 			d.legislator.is_incumbent = true;
 			d.legislator.incumbent_info = candidate;
@@ -72,7 +76,9 @@ $.each(house_2018, function(dnum, this_year){
 	d.this_year = this_year;
 
 	$.each(this_year, function(party, candidate){
-		candidate.fin_summary_link = 'https://mainecampaignfinance.com/#/exploreDetails/' + candidate.IDNumber + '/11/' + candidate.district + '/32/2018';
+		candidate.fin_summary_link = 
+			'https://mainecampaignfinance.com/#/exploreDetails/' + candidate.IDNumber + '/11/' + candidate.district + '/32/2018';
+
 		if(candidate.incumbentFlag) {
 			d.legislator.is_incumbent = true;
 			d.legislator.incumbent_info = candidate;
@@ -280,7 +286,16 @@ function loadDistrict(dnum){
 
 	var mpa_link = (gg.active_body == 'Senate') ? 'sldu-' + dnum : 'sldl-' + dnum;
 
-	var town_line = (gg.active_body == 'Senate') ? legislator.legal_residence : legislator.towns;
+	var town_line = legislator.towns; //(gg.active_body == 'Senate') ? legislator.legal_residence : legislator.towns;
+
+
+	if(town_line.length > 200) {
+		var str1 = town_line.substr(0, 200);
+		var str2 = town_line.substr(200);
+		town_line = str1 + '<a style="color: #337ab7; cursor:pointer; font-weight: bold" id="elipses" ' + 
+								'onclick="$(\'#extra_towns\').show(); $(\'#elipses\').hide(); ">...</a>' + 
+					'<span id="extra_towns" style="display: none">' + str2 + '</span>';
+	}
 	
 	var html =	'<div class="feature_frame">' +
 					'<div class="districtTitle">District ' + legislator.districtNum + '</div>' +
@@ -295,7 +310,9 @@ function loadDistrict(dnum){
 							// '<br />' + legislator.email + 
 							// '<br />' + legislator.address + 
 							money_line +
-							'MPA: <a class="mpa_link" href="http://mpascorecard.org/legislators/' + mpa_link + '" target="_blank">' + legislator.mpaScore + '%</a>' +
+							'MPA: <a class="mpa_link" href="http://mpascorecard.org/legislators/' + mpa_link + '" target="_blank">' + 
+								legislator.mpaScore + 
+							'%</a>' +
 							'<br /><a href="' + legislator.url + '" target="_blank">More Info</a>' +
 						'</div>' +
 					'</div>';
@@ -363,9 +380,13 @@ function _getMoneyLine(candidate){
 
 	return '<div class="money">' + 
 				code + ': ' +
-				'<a class="contributions" target="_blank" href="table.php?c=' + committee_slug + '">' + candidate.TotalContributions.formatMoney() + '</a>' +
+				'<a class="contributions" target="_blank" href="table.php?c=' + committee_slug + '">' + 
+					candidate.TotalContributions.formatMoney() + 
+				'</a>' +
 				' <span class="divider">-</span> ' +
-				'<a class="expenditures" target="_blank" href="table.php?e=' + committee_slug + '">' + candidate.TotalExpenditures.formatMoney() + '</a>' +
+				'<a class="expenditures" target="_blank" href="table.php?e=' + committee_slug + '">' + 
+					candidate.TotalExpenditures.formatMoney() + 
+				'</a>' +
 				' <span class="divider">-</span> <a href="' + candidate.fin_summary_link + '" target="_blank">summary</a>' +
 			'</div>';
 }
@@ -418,28 +439,75 @@ function showSearch(){
 }
 
 
+function toggleDisplayCandidates(){
+	gg.display_candidates = $('#show_candidates_toggle')[0].checked;
+	showList();
+}
+
 function showList(){
 	var html = '<div id="address_frame">' +
 					'<input class="form-control" id="search_input" onkeyup="filterList()" placeholder="Search...">' +
 				'</div>' +
+				'<div id="list_candidate_toggle">' +
+					'<input type="checkbox" id="show_candidates_toggle" onchange="toggleDisplayCandidates()" /> ' +
+					'<label for="show_candidates_toggle">&nbsp;&nbsp;Show Candidates?</div>' +
+				'</div>' +
 				'<div class="leg_card_frame">';
 
-	$.each(districtDictionary[gg.active_body], function(dnum, district){
-		var l = district.legislator;
+	if(!gg.display_candidates){
 
-		var leg_card = '<div class="leg_card clearfix" id="leg_' + dnum +'" onclick="loadDistrict(' + dnum + ')">' +
-							'<div class="mug_shot" style="background-image: url(\'assets/legislator-photos/' + l.photo_url + '\');"></div>' +
-							'<div class="name">' + l.name.fullName + '</div>' +
-							'<div class="district">District ' + dnum + ' - ' + l.towns + '</div>' +
+		$.each(districtDictionary[gg.active_body], function(dnum, district){
+			var l = district.legislator;
+			var geo_str = (gg.active_body == 'House') ? l.towns : l.legal_residence;
 
+			var leg_card = '<div class="leg_card clearfix" id="leg_' + dnum +'" onclick="loadDistrict(' + dnum + ')">' +
+								'<div class="mug_shot" style="background-image: url(\'assets/legislator-photos/' + l.photo_url + '\');"></div>' +
+								'<div class="name">' + l.name.fullName + '</div>' +
+								'<div class="district">District ' + dnum + ' - ' + geo_str + '</div>' +
+
+							'</div>';
+
+			html += leg_card;
+		});
+	}
+
+	else {
+
+		$.each(districtDictionary[gg.active_body], function(dnum, district){
+			var l = district.legislator;
+
+			var geo_str = (gg.active_body == 'House') ? l.towns : l.legal_residence;
+
+			html += '<div class="candidate_district" onclick="loadDistrict(' + dnum + ')" id="leg_' + dnum + '">' +
+
+						'<div class="districtDivider">' +
+							'<div class="dNum">DISTRICT ' + dnum + '</div>' +
+							'<div class="geography">- ' + geo_str + '</div>' +
 						'</div>';
 
-		html += leg_card;
-	});
+			
+			var party = l.party.split('')[0];
+			html += '<div class="candidate">' + l.name.fullName + ' (' + party + ') *</div>';
+					
+			for(party in district.this_year){
+				var candidate = district.this_year[party];
+				var party = party.split('')[0];
+				html += '<div class="candidate">' + candidate.firstName + ' ' + candidate.lastName + ' (' + party + ')</div>';
+			}
+
+			html += '</div>';
+
+		});
+	}
 
 	html += '</div>';
 
 	$('#output').html(html);
+
+	if(gg.display_candidates) {
+		console.log('trying to check box');
+		$('#show_candidates_toggle').prop('checked', true);
+	}
 }
 
 function filterList(){
@@ -454,6 +522,16 @@ function filterList(){
 		if(l.name.lastName.toUpperCase().indexOf(search_term.toUpperCase()) == 0) row.show();
 		if(l.name.firstName.toUpperCase().indexOf(search_term.toUpperCase()) == 0) row.show();
 		if(l.towns.toUpperCase().indexOf(search_term.toUpperCase()) != -1) row.show();
+		if(l.legal_residence.toUpperCase().indexOf(search_term.toUpperCase()) != -1) row.show();
+
+		if(gg.display_candidates){
+			for(party in district.this_year){
+				var candidate = district.this_year[party];
+				if(candidate.lastName.toUpperCase().indexOf(search_term.toUpperCase()) == 0) row.show();
+				if(candidate.firstName.toUpperCase().indexOf(search_term.toUpperCase()) == 0) row.show();
+		
+			}
+		}
 
 	});
 }

@@ -769,18 +769,18 @@
         }
     },
     "28": {
-        "REPUBLICAN": {
-            "firstName": "Bradbury D ",
-            "lastName": "Blake",
+        "REPUBLICAN" : {
+            "firstName" : "Linwood",
+            "lastName" : "Higgins",
             "district": "28",
             "office": "REPRESENTATIVE",
             "party": "REPUBLICAN",
             "FinanceType": "Traditionally Financed",
-            "IDNumber": 5923,
-            "TotalCashonHand": 0,
-            "TotalContributions": 29,
-            "TotalExpenditures": 29,
-            "incumbentFlag": false
+            "IDNumber": 298821,
+            "TotalCashonHand": 2380.54,
+            "TotalContributions": 4615,
+            "TotalExpenditures": 4734.46,
+            "incumbentFlag" : false
         },
         "DEMOCRATIC": {
             "firstName": "Christopher James ",
@@ -2197,6 +2197,19 @@
         }
     },
     "79": {
+
+        "UNENROLLED" : {
+            "firstName" : "Lindsey",
+            "lastName" : "Harwath",
+            "district": "79",
+            "office": "REPRESENTATIVE",
+            "party": "UNENROLLED",
+            "FinanceType": "Traditionally Financed",
+            "IDNumber": 299208,
+            "TotalCashonHand": null,
+            "TotalContributions": null,
+            "TotalExpenditures": null
+        },
         "DEMOCRATIC": {
             "firstName": "Dawn Marie ",
             "lastName": "Castner",
@@ -3914,19 +3927,21 @@
             "TotalExpenditures": 4359.65,
             "incumbentFlag": true
         },
-        "REPUBLICAN": {
-            "firstName": "Linda A. ",
-            "lastName": "Gray",
+       "REPUBLICAN" : {
+            "firstName": "Kimberley ",
+            "lastName" : "Robinson",
+
             "district": "138",
             "office": "REPRESENTATIVE",
             "party": "REPUBLICAN",
+            
             "FinanceType": "Traditionally Financed",
-            "IDNumber": 6205,
-            "TotalCashonHand": null,
-            "TotalContributions": null,
-            "TotalExpenditures": null,
-            "incumbentFlag": false
-        }
+            "IDNumber": 299364,
+
+            "TotalCashonHand": 63.82,
+            "TotalContributions": 870,
+            "TotalExpenditures": 1201.8
+        },
     },
     "139": {
         "DEMOCRATIC": {
@@ -4069,18 +4084,23 @@
         }
     },
     "144": {
-        "DEMOCRATIC": {
-            "firstName": "Andrew G. ",
-            "lastName": "Cottle",
+        "DEMOCRATIC" : {
+            "firstName": "Ted",
+            "lastName": "Sussman",
+
             "district": "144",
             "office": "REPRESENTATIVE",
             "party": "DEMOCRATIC",
+            
             "FinanceType": "Traditionally Financed",
-            "IDNumber": 6201,
-            "TotalCashonHand": null,
-            "TotalContributions": null,
-            "TotalExpenditures": null,
-            "incumbentFlag": false
+            "IDNumber": 298850,
+            
+            "incumbentFlag": false,
+            
+            "TotalCashonHand": 1232.67,
+            "TotalContributions": 2870,
+            "TotalExpenditures": 1637.33
+            
         },
         "REPUBLICAN": {
             "firstName": "Gregory Lewis ",
@@ -4126,17 +4146,22 @@
     },
     "146": {
         "DEMOCRATIC": {
-            "firstName": "Jacqueline A. ",
-            "lastName": "Lundeen",
+            "firstName": "Sarah ",
+            "lastName" : "LeClaire",
+
             "district": "146",
             "office": "REPRESENTATIVE",
             "party": "DEMOCRATIC",
+            
             "FinanceType": "Traditionally Financed",
-            "IDNumber": 6208,
+            "IDNumber": 298788,
+
+            "incumbentFlag": false,
+            
             "TotalCashonHand": null,
             "TotalContributions": null,
-            "TotalExpenditures": null,
-            "incumbentFlag": false
+            "TotalExpenditures": null
+            
         },
         "REPUBLICAN": {
             "firstName": "Dustin Michael ",
@@ -4195,18 +4220,23 @@
             "incumbentFlag": true
         },
         "REPUBLICAN": {
-            "firstName": "Katherine",
-            "lastName": "Schupbach",
-            "district": "148",
+            "firstName": "John",
+            "lastName" : "DeVeau",
+            
+            "district": "149",
             "office": "REPRESENTATIVE",
             "party": "REPUBLICAN",
+            
             "FinanceType": "Traditionally Financed",
-            "IDNumber": 6103,
-            "TotalCashonHand": 105.33,
-            "TotalContributions": 1115,
-            "TotalExpenditures": 1009.67,
-            "incumbentFlag": false
-        }
+            "IDNumber": 298803,
+
+            "incumbentFlag": false,
+
+            "TotalCashonHand": 490.07,
+            "TotalContributions": 875,
+            "TotalExpenditures": 384.93
+        },
+
     },
     "149": {
         "REPUBLICAN": {
