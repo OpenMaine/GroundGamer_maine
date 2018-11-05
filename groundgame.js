@@ -159,7 +159,7 @@ function toggleBody(body){
 
 	// fetch data from api and load
 	else {
-		$.getJSON('data/turfs/' + body + '_districts.js', function(response){
+		$.getJSON('data/turfs/' + body.toLowerCase() + '_districts.js', function(response){
 			gg.loaded[gg.active_body] = true;
 			loadDistrictGeography(response);
 
