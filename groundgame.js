@@ -305,9 +305,10 @@ function loadDistrict(dnum){
 
 	var town_line = legislator.towns; //(gg.active_body == 'Senate') ? legislator.legal_residence : legislator.towns;
 
-	var img_url = 'assets/legislator-photos/' + legislator.photo_url;
-	var img_url = legislator.img2;
-
+	if(gg.active_body == 'Senate') {
+		var img_url = 'assets/legislator-photos/' + legislator.photo_url;
+	}
+	else var img_url = legislator.img2;
 
 	if(town_line.length > 120) {
 		var str1 = town_line.substr(0, 120);
