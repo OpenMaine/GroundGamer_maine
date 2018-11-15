@@ -445,6 +445,9 @@ function showSearch(){
 			'<a class="trigger" onclick="showWhosNew()">Want to know who\'s new?</a>' +
 			'<a class="trigger" onclick="showWhatFlipped()">Want to see what flipped?</a>' +
 
+			'<a class="title" style="margin-top: 20px; display: block; text-align: right; font-weight: normal" target="_blank"' + 
+				'href="https://github.com/OpenMaine/GroundGamer_maine">More Info?</a>'
+
 		'</div>';
 
 	$('#output').html(html);
