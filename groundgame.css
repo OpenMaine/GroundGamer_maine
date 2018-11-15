@@ -25,6 +25,11 @@
 	
 }
 
+
+a {
+	cursor: pointer;
+}
+
 a.button {
 	display: block;
 	float: left;
@@ -73,10 +78,17 @@ html, body {
 .search_frame #address_frame 	{ margin: 45px 0; }
 .search_frame label 			{ font-size: 11px; font-weight: bold }
 .search_frame input 			{ height: 40px; border: solid 1px #ccc; padding: 0 10px; line-height: 40px; font-size: 12px; width: 100%; display: block; }
-.search_frame .button 			{ margin-top: 6px; }
+.search_frame .button 			{ margin-top: 6px; margin-bottom: 20px;}
 .search_frame .message 			{ clear: both; padding-top: 8px; }
 
 #list_candidate_toggle label	{ font-weight: normal; font-size: 12px; cursor: pointer; }
+
+.search_frame .header 			{ font-size: 18px; margin: 40px 0 20px; font-weight: bold }
+.search_frame .subhead 			{ font-style: italic }
+
+
+.search_frame .title 			{ font-size: 14px; font-weight: bold; clear: both; margin-top: 30px; }
+.search_frame .trigger			{ display: block; }
 
 
 
@@ -89,23 +101,27 @@ html, body {
 .districtDivider .dNum 	{font-size: 13px; padding-bottom: 3px; letter-spacing: .05em; font-weight: bold}
 .districtDivider .geography { font-size: 12px; font-style: italic; }
 
+
 .candidate 				{ font-weight: bold; font-size: 14px; padding: 7px 10px; border-bottom: solid 1px #ccc; cursor: pointer; background: #f0f0f0; }
 .candidate:hover 		{ background: white }
+.candidate.former 		{ font-weight: normal; font-style: italic; color: #555; }
 
-.leg_card_frame 		{ height: 350px; overflow: auto; border: solid 1px #ccc; }
+.leg_card_frame 		{ height: 310px; overflow: auto; border: solid 1px #ccc; }
 .leg_card				{ clear: both; border-bottom: dotted 1px #ccc; padding: 8px 0; cursor: pointer;}
 .leg_card:hover 		{ background: #337ab7; color: white; }
-.leg_card .mug_shot		{ height: 60px; width: 60px; float: left;background-size: 45px; background-position: center; background-repeat: no-repeat;}
-.leg_card .name			{ font-weight: bold; font-size: 14px; padding-top: 7px; }
+.leg_card .mug_shot		{ height: 60px; width: 60px; float: left;background-size: 45px; background-position: center; background-repeat: no-repeat; }
+.leg_card .name			{ font-weight: bold; font-size: 14px; padding-top: 7px;}
 .leg_card .district		{ font-style: italic; font-size: 12px; }
 
 #address_frame 			{ padding: 15px 0; }
 
+#list_selector 			{ margin-bottom: 15px; }
+
 
 .feature_frame						{ padding: 15px 0; }
 .feature_frame .districtTitle		{ font-size: 22px; color: black; font-weight: bold }
-.feature_frame .districtTowns		{ font-size: 12px; font-style: italic; }
-.feature_frame .party_header		{ background: black; color: white; line-height: 26px; font-size: 12px; padding: 0 7px; letter-spacing: .1em; margin: 20px 0 5px; }
+.feature_frame .districtTowns		{ font-size: 12px; font-style: italic; margin-bottom: 15px;}
+.feature_frame .party_header		{ background: black; color: white; line-height: 26px; font-size: 12px; padding: 0 7px; letter-spacing: .1em; margin-bottom: 5px; }
 .feature_frame .party_header.R		{ background: #990000; }
 .feature_frame .party_header.D		{ background: #000099; }
 .feature_frame .party_header.G		{ background: #009900; }
@@ -114,6 +130,10 @@ html, body {
 .feature_frame .leg_card 			{ border-bottom: none }
 .feature_frame .leg_card:hover		{ background: white; color: black; cursor: default; }
 .feature_frame .contact_details		{ float: left; font-size: 12px; width: 180px; }
+
+.feature_frame .name 				{ padding-top: 0px; }
+.feature_frame .mug_shot 			{ margin-top: 4px; background-position: center top}
+
 
 .feature_frame .expenditures 		{ color: red; }
 .feature_frame .contributions 		{ color: green; }
