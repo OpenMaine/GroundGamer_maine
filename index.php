@@ -58,7 +58,7 @@
 		
 
 		<!-- APP SCRIPT -->
-		<script src="groundgame.js"></script>
+		<script src="groundgame.js?v=<?php echo time(); ?>"></script>
 		
 
 		
