@@ -5,14 +5,6 @@
 
 
 
-// DISTRICT DICTIONARY 
-districtDictionary = {
-	"House" : {
-		// <dnum> : <District>,
-	},
-
-	Senate : { }
-}
 
 // Expected from UI Loader: legislatorsRaw [<Legislator>, ...]
 // Geo Data comes from APIs
@@ -41,67 +33,11 @@ gg = {
 }
 
 
-District = function(legislator){
-	this.legislator = legislator;
-	this.body 		= legislator.legislative_chamber;
-	this.dnum 		= legislator.districtNum;
-	this.geo 		= { polygonsRaw : [], "polygonsGoogle" : []}
-}
 
 
 
-// Use Legislators files to build District Dictionary
-$.each(legislatorsRaw, function(i, l){
-	l.is_incumbent = false;
-	districtDictionary[l.legislative_chamber][l.districtNum] = new District(l);
-})
 
-$.each(senators_2018, function(dnum, this_year){
-	var d = districtDictionary['Senate'][dnum];
-	d.this_year = this_year;
-	$.each(this_year, function(party, candidate){
-		candidate.fin_summary_link = 
-			'https://mainecampaignfinance.com/#/exploreDetails/' + candidate.IDNumber + '/12/' + candidate.district + '/32/2018';
-
-		if(candidate.incumbentFlag) {
-			d.legislator.is_incumbent = true;
-			d.legislator.incumbent_info = candidate;
-			delete d.this_year[party];
-		}
-
-	})
-
-
-})
-
-$.each(house_2018, function(dnum, this_year){
-	var d = districtDictionary['House'][dnum];
-	d.this_year = this_year;
-
-	$.each(this_year, function(party, candidate){
-		candidate.fin_summary_link = 
-			'https://mainecampaignfinance.com/#/exploreDetails/' + candidate.IDNumber + '/11/' + candidate.district + '/32/2018';
-
-		if(candidate.incumbentFlag) {
-			d.legislator.is_incumbent = true;
-			d.legislator.incumbent_info = candidate;
-			delete d.this_year[party];
-		}
-	})
-
-
-	// check for redundancy
-	
-	// if(!d.legislator.is_incumbent) {
-	// 	console.log(d.legislator.name.fullName);
-	// 	$.each(this_year, function(party, candidate){
-	// 		console.log('-' + candidate.firstName + ' ' + candidate.lastName);
-	// 	})
-	// 	console.log("\n");
-
-	// }
-})
-
+console.log(districtDictionary);
 
 
 
@@ -123,6 +59,14 @@ function toggleBody(body){
 	// remove old polygons
 	var districts = districtDictionary[gg.active_body];
 	$.each(districts, function(dnum, d){
+
+		if(!('geo' in d)){
+			d.geo = { 
+				polygonsRaw : [], 
+				"polygonsGoogle" : []
+			}
+		}
+
 		$.each(d.geo.polygonsGoogle, function(i, g){
 			g.setMap(null);
 		});
@@ -175,8 +119,10 @@ function toggleBody(body){
 }
 
 
-
+// TAKES API RESPONSE AND WRITES IT TO DISTRICT DICTIONARY
 function loadDistrictGeography(districts_raw){
+
+	console.log(districtDictionary);
 
 	// parse raw data
 	for(var districtNumber in districts_raw){
@@ -299,13 +245,18 @@ function loadDistrict(dnum){
 
 	var title = (legislator.is_incumbent) ? 'INCUMBENT - ' + legislator.term_limited : 'SITTING - ' + legislator.term_limited;
 
-	var money_line = (legislator.is_incumbent) ? _getMoneyLine(legislator.incumbent_info) : '';
 
-	var mpa_link = (gg.active_body == 'Senate') ? 'sldu-' + dnum : 'sldl-' + dnum;
+	if(legislator.is_incumbent){
+		var money_line = _getMoneyLine(legislator.incumbent_info);
+	}
+	else if(legislator.title == 'Newly Elected'){
+		var money_line = _getMoneyLine(legislator)
+	}
+	else var money_line = '';
 
-	var town_line = legislator.towns; //(gg.active_body == 'Senate') ? legislator.legal_residence : legislator.towns;
+	var town_line = district.towns; //(gg.active_body == 'Senate') ? legislator.legal_residence : legislator.towns;
 
-	if(gg.active_body == 'Senate') {
+	if(gg.active_body == 'Senate' || legislator.photo_url == 'new.png') {
 		var img_url = 'assets/legislator-photos/' + legislator.photo_url;
 	}
 	else var img_url = legislator.img2;
@@ -317,13 +268,32 @@ function loadDistrict(dnum){
 								'onclick="$(\'#extra_towns\').show(); $(\'#elipses\').hide(); ">...</a>' + 
 					'<span id="extra_towns" style="display: none">' + str2 + '</span>';
 	}
+
+
+	if ('mpaScore' in legislator){
+
+		var score_link = (gg.active_body == 'Senate') ? 'sldu-' + dnum : 'sldl-' + dnum;
+
+		var score_lines = 'MPA: <a class="mpa_link" href="http://mpascorecard.org/legislators/' + score_link + '" target="_blank">' + 
+								legislator.mpaScore + 
+							'%</a><br />' +
+							'Maine AFL-CIO: <a class="mpa_link" href=" http://maineaflcio.openscorecard.org/legislators/' + score_link + 
+												'" target="_blank">' + 
+								legislator.aflscore +
+							'%</a>' +
+							'<br /><a href="' + legislator.url + '" target="_blank">More Info</a>';
+
+	}
+	else score_lines = '';
+
+
 	
 	var html =	'<div class="feature_frame">' +
-					'<div class="districtTitle">District ' + legislator.districtNum + '</div>' +
+					'<div class="districtTitle">District ' + dnum + '</div>' +
 					'<div class="districtTowns">' + town_line + '</div>' +
 
 					'<div class="leg_card clearfix">' +
-						'<div class="party_header ' + legislator.party[0] + '">' + title + '</div>' + 
+						'<div class="party_header ' + legislator.party[0] + '">' + legislator.title + '</div>' + 
 						'<div class="mug_shot" style="background-image: url(\'' + img_url + '\');"></div>' +
 						'<div class="contact_details">' + 
 							'<div class="name">' + legislator.name.fullName + '</div>' +
@@ -331,14 +301,7 @@ function loadDistrict(dnum){
 							// '<br />' + legislator.email + 
 							// '<br />' + legislator.address + 
 							money_line +
-							'MPA: <a class="mpa_link" href="http://mpascorecard.org/legislators/' + mpa_link + '" target="_blank">' + 
-								legislator.mpaScore + 
-							'%</a><br />' +
-							'Maine AFL-CIO: <a class="mpa_link" href=" http://maineaflcio.openscorecard.org/legislators/' + mpa_link + 
-												'" target="_blank">' + 
-								legislator.aflscore +
-							'%</a>' +
-							'<br /><a href="' + legislator.url + '" target="_blank">More Info</a>' +
+							score_lines +
 						'</div>' +
 					'</div>';
             
@@ -477,11 +440,14 @@ function showList(){
 
 		$.each(districtDictionary[gg.active_body], function(dnum, district){
 			var l = district.legislator;
-			var geo_str = (gg.active_body == 'House') ? l.towns : l.legal_residence;
+
+			var geo_str = (gg.active_body == 'House') ? district.towns : district.legal_residence;
+
+			var photo_url = (l.photo_url == undefined) ? 'new.png' : l.photo_url;
 
 			var leg_card = '<div class="leg_card clearfix" id="leg_' + dnum +'" onclick="loadDistrict(' + dnum + ')">' +
-								'<div class="mug_shot" style="background-image: url(\'assets/legislator-photos/' + l.photo_url + '\');"></div>' +
-								'<div class="name">' + l.name.fullName + '</div>' +
+								'<div class="mug_shot" style="background-image: url(\'assets/legislator-photos/' + photo_url + '\');"></div>' +
+								'<div class="name">' + l.firstName + ' ' + l.lastName + '</div>' +
 								'<div class="district">District ' + dnum + ' - ' + geo_str + '</div>' +
 
 							'</div>';

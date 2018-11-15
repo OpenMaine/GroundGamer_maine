@@ -11,7 +11,9 @@
 		</script>
 		
 		<!-- APP DATA - THE REST LOADS VIA AJAX -->
-		<script src="data/legislators/load_legislators.js.php"></script>
+		<script>
+			var districtDictionary = <?php echo file_get_contents('data/legislators/district_dictionary.js'); ?>;
+		</script>
 		
 		<!-- JS LIBRARIES: jQuery -->
 		<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
