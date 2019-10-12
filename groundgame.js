@@ -268,7 +268,7 @@ function loadDistrict(dnum){
 					'<div class="districtTowns">' + town_line + '</div>' +
 
 					// LIST LEGISLATORS
-					_listLegislatorOnFeature(district.legislator);
+					_listLegislatorOnFeature(district.legislator, dnum);
 
 					district.this_year.forEach(function(c){
 						html += _listLegislatorOnFeature(c);
@@ -304,7 +304,7 @@ function loadDistrict(dnum){
 }
 
 
-function _listLegislatorOnFeature(legislator){
+function _listLegislatorOnFeature(legislator, dnum){
 	var title = legislator.title;
 
 
@@ -327,7 +327,10 @@ function _listLegislatorOnFeature(legislator){
  
 
 	// GET SCORES
+
 	if ('mpaScore' in legislator){
+
+
 
 		var score_link = (gg.active_body == 'Senate') ? 'sldu-' + dnum : 'sldl-' + dnum;
 
@@ -390,7 +393,6 @@ function _getMoneyLine(candidate){
 				'<a class="expenditures" target="_blank" href="table.php?e=' + committee_slug + '">' + 
 					candidate.TotalExpenditures.formatMoney() + 
 				'</a>' +
-				' <span class="divider">-</span> <a href="' + candidate.fin_summary_link + '" target="_blank">summary</a>' +
 			'</div>';
 }
 
@@ -573,7 +575,6 @@ function toggleSelectedList(){
 	var selected_list = $('#list_selector').val();
 	if(selected_list == '') selected_list = false;
 	gg.selected_list = selected_list;
-	console.log(gg);
 	filterList();
 }
 

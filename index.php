@@ -1,4 +1,10 @@
-<!DOCTYPE html>
+<?php
+
+	$google_api_key = 'AIzaSyDxvSHxYEcCAseWokSJ4HyTE0g9xA0IH0w';
+
+	$district_dictionary = file_get_contents('data/legislators/district_dictionary.js');
+
+?><!DOCTYPE html>
 <html>
 	<head>
 		<meta name="viewport" content="initial-scale=1.0, user-scalable=no">
@@ -7,12 +13,12 @@
 
 		<!-- APP CONFIG -->
 		<script>
-			google_api_key = "AIzaSyC2vxa7kFjwQpUh8rG9bAbruvjsrOjl8us";
+			google_api_key = "<?php echo $google_api_key; ?>";
 		</script>
 		
 		<!-- APP DATA - THE REST LOADS VIA AJAX -->
 		<script>
-			var districtDictionary = <?php echo file_get_contents('data/legislators/district_dictionary.js'); ?>;
+			var districtDictionary = <?php echo $district_dictionary; ?>;
 		</script>
 		
 		<!-- JS LIBRARIES: jQuery -->
@@ -63,7 +69,7 @@
 
 		
 		<!-- REMAINING LIBRARIES: Google Maps API, Popper.js (?), Bootstrap / Material Design -->
-		<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC2vxa7kFjwQpUh8rG9bAbruvjsrOjl8us&callback=initMap"></script>
+		<script async defer src="https://maps.googleapis.com/maps/api/js?key=<?php echo $google_api_key; ?>&callback=initMap"></script>
 
 	<!-- 	<script src="https://unpkg.com/popper.js@1.12.5/dist/umd/popper.js" 
 				integrity="sha384-KlVcf2tswD0JOTQnzU4uwqXcbAy57PvV48YUiLjqpk/MJ2wExQhg9tuozn5A1iVw" crossorigin="anonymous"></script>
